@@ -2,7 +2,7 @@ name: Regular Update
 
 on:
   schedule:
-    - cron: "0 2-14/6 * * *" # Run everyday at 10am, 4pm, 10pm, 4am
+    - cron: "*/10 * * * *" # Run everyday at 10am, 4pm, 10pm, 4am
 
 jobs:
   update:
