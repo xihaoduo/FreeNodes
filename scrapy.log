@@ -1,4 +1,4 @@
-2025-01-04 20:16:36 [scrapy.middleware] INFO: Enabled downloader middlewares:
+2025-01-05 02:53:28 [scrapy.middleware] INFO: Enabled downloader middlewares:
 ['scrapy.downloadermiddlewares.offsite.OffsiteMiddleware',
  'scrapy.downloadermiddlewares.robotstxt.RobotsTxtMiddleware',
  'scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
@@ -13,484 +13,831 @@
  'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
  'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
  'scrapy.downloadermiddlewares.stats.DownloaderStats']
-2025-01-04 20:16:36 [scrapy.middleware] INFO: Enabled spider middlewares:
+2025-01-05 02:53:28 [scrapy.middleware] INFO: Enabled spider middlewares:
 ['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
  'scrapy.spidermiddlewares.referer.RefererMiddleware',
  'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
  'scrapy.spidermiddlewares.depth.DepthMiddleware']
-2025-01-04 20:16:36 [scrapy.middleware] INFO: Enabled item pipelines:
+2025-01-05 02:53:28 [scrapy.middleware] INFO: Enabled item pipelines:
 ['NodeScrapy.pipelines.Pipeline']
-2025-01-04 20:16:36 [scrapy.core.engine] INFO: Spider opened
-2025-01-04 20:16:36 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
-2025-01-04 20:16:36 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
-2025-01-04 20:16:36 [simple] INFO: clashmeta start
-2025-01-04 20:16:36 [simple] INFO: ndnode start
-2025-01-04 20:16:36 [simple] INFO: nodev2ray start
-2025-01-04 20:16:36 [simple] INFO: nodefree start
-2025-01-04 20:16:36 [simple] INFO: v2rayshare start
-2025-01-04 20:16:36 [simple] INFO: wenode start
-2025-01-04 20:16:36 [simple] INFO: clashmeta found /free-nodes/2025-1-4-node-share.htm on 2025-01-04
-2025-01-04 20:16:36 [simple] INFO: clashmeta found /free-nodes/2025-1-4-node-share.htm on 2025-01-04
-2025-01-04 20:16:36 [simple] INFO: clashmeta found /free-nodes/2025-1-3-clash-meta-github.htm on 2025-01-03
-2025-01-04 20:16:36 [simple] INFO: clashmeta found /free-nodes/2025-1-3-clash-meta-github.htm on 2025-01-03
-2025-01-04 20:16:36 [simple] INFO: clashmeta found /free-nodes/2025-1-2-latest-clash-meta-node.htm on 2025-01-02
-2025-01-04 20:16:36 [simple] INFO: clashmeta found /free-nodes/2025-1-2-latest-clash-meta-node.htm on 2025-01-02
-2025-01-04 20:16:36 [simple] INFO: clashmeta found /free-nodes/2025-1-1-free-clash-meta-node.htm on 2025-01-01
-2025-01-04 20:16:36 [simple] INFO: clashmeta found /free-nodes/2025-1-1-free-clash-meta-node.htm on 2025-01-01
-2025-01-04 20:16:36 [simple] INFO: clashmeta found /free-nodes/2024-12-31-latest-clash-meta-node.htm on 2025-03-01
-2025-01-04 20:16:36 [simple] INFO: clashmeta found /free-nodes/2024-12-30-clash-meta-node-github.htm on 2025-03-01
-2025-01-04 20:16:36 [simple] INFO: clashmeta found /free-nodes/2024-12-29-free-high-speed-nodes.htm on 2025-03-01
-2025-01-04 20:16:36 [simple] INFO: clashmeta found /free-nodes/2024-12-28-node-share.htm on 2025-03-01
-2025-01-04 20:16:36 [simple] INFO: clashmeta found /free-nodes/2024-12-27-clash-meta-node-github.htm on 2025-03-01
-2025-01-04 20:16:36 [simple] INFO: clashmeta found /free-nodes/2024-12-26-free-high-speed-nodes.htm on 2025-03-01
-2025-01-04 20:16:36 [simple] INFO: clashmeta found /free-nodes/2024-12-25-free-node-subscribe.htm on 2025-03-01
-2025-01-04 20:16:36 [simple] INFO: clashmeta found /free-nodes/2024-12-24-free-subscribe-node.htm on 2025-03-01
-2025-01-04 20:16:36 [simple] INFO: clashmeta found /free-nodes/2024-12-23-free-node-subscribe.htm on 2025-03-01
-2025-01-04 20:16:36 [simple] INFO: clashmeta found /free-nodes/2024-12-22-node-share-links.htm on 2025-03-01
-2025-01-04 20:16:36 [simple] INFO: clashmeta found /free-nodes/2024-12-21-clash-meta-github.htm on 2025-03-01
-2025-01-04 20:16:36 [simple] INFO: clashmeta found /free-nodes/2024-12-20-node-share.htm on 2025-03-01
-2025-01-04 20:16:36 [simple] INFO: clashmeta found /free-nodes/2024-12-19-clash-meta-node-github.htm on 2025-03-01
-2025-01-04 20:16:36 [simple] INFO: clashmeta found /free-nodes/2024-12-18-clash-meta-windows.htm on 2025-03-01
-2025-01-04 20:16:36 [simple] INFO: clashmeta found /free-nodes/2024-12-17-clash-meta-node-share.htm on 2025-03-01
-2025-01-04 20:16:36 [simple] INFO: clashmeta found /free-nodes/2024-12-16-clash-meta-node-share.htm on 2025-03-01
-2025-01-04 20:16:36 [simple] INFO: clashmeta is up to date, exiting
-2025-01-04 20:16:36 [simple] INFO: clashmeta is up to date, exiting
-2025-01-04 20:16:36 [simple] INFO: clashmeta is up to date, exiting
-2025-01-04 20:16:36 [simple] INFO: wenode found https://wenode.cc/a/2677.html on 2025-01-04
-2025-01-04 20:16:36 [simple] INFO: wenode found https://wenode.cc/a/2678.html on 2025-01-03
-2025-01-04 20:16:36 [simple] INFO: wenode found https://wenode.cc/a/2679.html on 2025-01-02
-2025-01-04 20:16:36 [simple] INFO: wenode found https://wenode.cc/a/2680.html on 2025-01-01
-2025-01-04 20:16:36 [simple] INFO: wenode needs update, accessing https://wenode.cc/a/2677.html
-2025-01-04 20:16:36 [simple] INFO: wenode is up to date, exiting
-2025-01-04 20:16:36 [simple] INFO: wenode is up to date, exiting
-2025-01-04 20:16:37 [simple] INFO: nodev2ray found /free-node/2025-1-5-node-share.htm on 2025-01-05
-2025-01-04 20:16:37 [simple] INFO: nodev2ray found /free-node/2025-1-4-free-ssr-node.htm on 2025-01-04
-2025-01-04 20:16:37 [simple] INFO: nodev2ray found /free-node/2025-1-3-v2ray-node.htm on 2025-01-03
-2025-01-04 20:16:37 [simple] INFO: nodev2ray found /free-node/2025-1-2-free-node-subscribe-links.htm on 2025-01-02
-2025-01-04 20:16:37 [simple] INFO: nodev2ray found /free-node/2025-1-1-free-node-subscribe.htm on 2025-01-01
-2025-01-04 20:16:37 [simple] INFO: nodev2ray needs update, accessing https://nodev2ray.com/free-node/2025-1-5-node-share.htm
-2025-01-04 20:16:37 [simple] INFO: nodev2ray is up to date, exiting
-2025-01-04 20:16:37 [simple] INFO: nodev2ray is up to date, exiting
-2025-01-04 20:16:37 [simple] INFO: v2rayshare found https://v2rayshare.com/p/4459.html on 2025-01-04
-2025-01-04 20:16:37 [simple] INFO: v2rayshare found https://v2rayshare.com/p/4460.html on 2025-01-03
-2025-01-04 20:16:37 [simple] INFO: v2rayshare found https://v2rayshare.com/p/4461.html on 2025-01-02
-2025-01-04 20:16:37 [simple] INFO: v2rayshare found https://v2rayshare.com/p/4462.html on 2025-01-01
-2025-01-04 20:16:37 [simple] INFO: v2rayshare found https://v2rayshare.com/p/4459.html on 2025-01-04
-2025-01-04 20:16:37 [simple] INFO: v2rayshare found https://v2rayshare.com/p/4460.html on 2025-01-03
-2025-01-04 20:16:37 [simple] INFO: v2rayshare found https://v2rayshare.com/p/4461.html on 2025-01-02
-2025-01-04 20:16:37 [simple] INFO: v2rayshare found https://v2rayshare.com/p/4462.html on 2025-01-01
-2025-01-04 20:16:37 [simple] INFO: v2rayshare is up to date, exiting
-2025-01-04 20:16:37 [simple] INFO: v2rayshare is up to date, exiting
-2025-01-04 20:16:37 [simple] INFO: v2rayshare is up to date, exiting
-2025-01-04 20:16:37 [simple] INFO: nodefree found https://nodefree.org/p/3046.html on 2025-01-03
-2025-01-04 20:16:37 [simple] INFO: nodefree found https://nodefree.org/p/3046.html on 2025-01-03
-2025-01-04 20:16:37 [simple] INFO: nodefree found https://nodefree.org/p/3047.html on 2025-01-02
-2025-01-04 20:16:37 [simple] INFO: nodefree found https://nodefree.org/p/3047.html on 2025-01-02
-2025-01-04 20:16:37 [simple] INFO: nodefree found https://nodefree.org/p/3048.html on 2025-01-01
-2025-01-04 20:16:37 [simple] INFO: nodefree found https://nodefree.org/p/3048.html on 2025-01-01
-2025-01-04 20:16:37 [simple] INFO: nodefree is up to date, exiting
-2025-01-04 20:16:37 [simple] INFO: nodefree is up to date, exiting
-2025-01-04 20:16:37 [simple] INFO: nodefree is up to date, exiting
-2025-01-04 20:16:37 [simple] WARNING: nodev2ray could not parse https://nodev2ray.com/uploads/20240708/aed657e563c73de588c57d68ed1808e1.webp" /, skipping
-2025-01-04 20:16:37 [simple] WARNING: nodev2ray could not parse https://nodev2ray.com/uploads/20240708/aed657e563c73de588c57d68ed1808e1.webp" /, skipping
-2025-01-04 20:16:37 [simple] INFO: nodev2ray found https://nodev2ray.com/uploads/2025/01/0-20250105.txt
-2025-01-04 20:16:37 [simple] INFO: nodev2ray found https://nodev2ray.com/uploads/2025/01/1-20250105.txt
-2025-01-04 20:16:37 [simple] INFO: nodev2ray found https://nodev2ray.com/uploads/2025/01/2-20250105.txt
-2025-01-04 20:16:37 [simple] INFO: nodev2ray found https://nodev2ray.com/uploads/2025/01/3-20250105.txt
-2025-01-04 20:16:37 [simple] INFO: nodev2ray found https://nodev2ray.com/uploads/2025/01/4-20250105.txt
-2025-01-04 20:16:37 [simple] INFO: nodev2ray found https://nodev2ray.com/uploads/2025/01/0-20250105.yaml
-2025-01-04 20:16:37 [simple] INFO: nodev2ray found https://nodev2ray.com/uploads/2025/01/1-20250105.yaml
-2025-01-04 20:16:37 [simple] INFO: nodev2ray found https://nodev2ray.com/uploads/2025/01/2-20250105.yaml
-2025-01-04 20:16:37 [simple] INFO: nodev2ray found https://nodev2ray.com/uploads/2025/01/3-20250105.yaml
-2025-01-04 20:16:37 [simple] WARNING: nodev2ray could not parse https://nodev2ray.com/uploads/2025/01/4-20250105.yml, skipping
-2025-01-04 20:16:37 [simple] WARNING: nodev2ray could not parse https://nodev2ray.com/uploads/2025/01/20250105.json, skipping
-2025-01-04 20:16:38 [simple] INFO: Pipeline processing nodev2ray.txt
-2025-01-04 20:16:38 [simple] INFO: Pipeline processed nodev2ray.txt
-2025-01-04 20:16:38 [simple] INFO: Pipeline processing nodev2ray.txt
-2025-01-04 20:16:38 [simple] INFO: Pipeline processed nodev2ray.txt
-2025-01-04 20:16:38 [simple] INFO: Pipeline processing nodev2ray.txt
-2025-01-04 20:16:38 [simple] INFO: Pipeline processed nodev2ray.txt
-2025-01-04 20:16:38 [simple] INFO: Pipeline processing nodev2ray.yaml
-2025-01-04 20:16:38 [simple] INFO: Pipeline processed nodev2ray.yaml
-2025-01-04 20:16:38 [simple] INFO: Pipeline processing nodev2ray.txt
-2025-01-04 20:16:38 [simple] INFO: Pipeline processed nodev2ray.txt
-2025-01-04 20:16:38 [simple] INFO: Pipeline processing nodev2ray.yaml
-2025-01-04 20:16:38 [simple] INFO: Pipeline processed nodev2ray.yaml
-2025-01-04 20:16:38 [simple] INFO: Pipeline processing nodev2ray.txt
-2025-01-04 20:16:38 [simple] INFO: Pipeline processed nodev2ray.txt
-2025-01-04 20:16:38 [simple] INFO: Pipeline processing nodev2ray.yaml
-2025-01-04 20:16:39 [simple] INFO: Pipeline processed nodev2ray.yaml
-2025-01-04 20:16:39 [simple] INFO: Pipeline processing nodev2ray.yaml
-2025-01-04 20:16:40 [scrapy.core.scraper] ERROR: Error processing {'body': 'port: 7890\n'
+2025-01-05 02:53:28 [scrapy.core.engine] INFO: Spider opened
+2025-01-05 02:53:28 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-01-05 02:53:28 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2025-01-05 02:53:28 [simple] INFO: clashmeta start
+2025-01-05 02:53:28 [simple] INFO: ndnode start
+2025-01-05 02:53:28 [simple] INFO: nodev2ray start
+2025-01-05 02:53:28 [simple] INFO: nodefree start
+2025-01-05 02:53:28 [simple] INFO: v2rayshare start
+2025-01-05 02:53:28 [simple] INFO: wenode start
+2025-01-05 02:53:29 [simple] INFO: clashmeta found /free-nodes/2025-1-4-node-share.htm on 2025-01-04
+2025-01-05 02:53:29 [simple] INFO: clashmeta found /free-nodes/2025-1-4-node-share.htm on 2025-01-04
+2025-01-05 02:53:29 [simple] INFO: clashmeta found /free-nodes/2025-1-3-clash-meta-github.htm on 2025-01-03
+2025-01-05 02:53:29 [simple] INFO: clashmeta found /free-nodes/2025-1-3-clash-meta-github.htm on 2025-01-03
+2025-01-05 02:53:29 [simple] INFO: clashmeta found /free-nodes/2025-1-2-latest-clash-meta-node.htm on 2025-01-02
+2025-01-05 02:53:29 [simple] INFO: clashmeta found /free-nodes/2025-1-2-latest-clash-meta-node.htm on 2025-01-02
+2025-01-05 02:53:29 [simple] INFO: clashmeta found /free-nodes/2025-1-1-free-clash-meta-node.htm on 2025-01-01
+2025-01-05 02:53:29 [simple] INFO: clashmeta found /free-nodes/2025-1-1-free-clash-meta-node.htm on 2025-01-01
+2025-01-05 02:53:29 [simple] INFO: clashmeta found /free-nodes/2024-12-31-latest-clash-meta-node.htm on 2025-03-01
+2025-01-05 02:53:29 [simple] INFO: clashmeta found /free-nodes/2024-12-30-clash-meta-node-github.htm on 2025-03-01
+2025-01-05 02:53:29 [simple] INFO: clashmeta found /free-nodes/2024-12-29-free-high-speed-nodes.htm on 2025-03-01
+2025-01-05 02:53:29 [simple] INFO: clashmeta found /free-nodes/2024-12-28-node-share.htm on 2025-03-01
+2025-01-05 02:53:29 [simple] INFO: clashmeta found /free-nodes/2024-12-27-clash-meta-node-github.htm on 2025-03-01
+2025-01-05 02:53:29 [simple] INFO: clashmeta found /free-nodes/2024-12-26-free-high-speed-nodes.htm on 2025-03-01
+2025-01-05 02:53:29 [simple] INFO: clashmeta found /free-nodes/2024-12-25-free-node-subscribe.htm on 2025-03-01
+2025-01-05 02:53:29 [simple] INFO: clashmeta found /free-nodes/2024-12-24-free-subscribe-node.htm on 2025-03-01
+2025-01-05 02:53:29 [simple] INFO: clashmeta found /free-nodes/2024-12-23-free-node-subscribe.htm on 2025-03-01
+2025-01-05 02:53:29 [simple] INFO: clashmeta found /free-nodes/2024-12-22-node-share-links.htm on 2025-03-01
+2025-01-05 02:53:29 [simple] INFO: clashmeta found /free-nodes/2024-12-21-clash-meta-github.htm on 2025-03-01
+2025-01-05 02:53:29 [simple] INFO: clashmeta found /free-nodes/2024-12-20-node-share.htm on 2025-03-01
+2025-01-05 02:53:29 [simple] INFO: clashmeta found /free-nodes/2024-12-19-clash-meta-node-github.htm on 2025-03-01
+2025-01-05 02:53:29 [simple] INFO: clashmeta found /free-nodes/2024-12-18-clash-meta-windows.htm on 2025-03-01
+2025-01-05 02:53:29 [simple] INFO: clashmeta found /free-nodes/2024-12-17-clash-meta-node-share.htm on 2025-03-01
+2025-01-05 02:53:29 [simple] INFO: clashmeta found /free-nodes/2024-12-16-clash-meta-node-share.htm on 2025-03-01
+2025-01-05 02:53:29 [simple] INFO: clashmeta is up to date, exiting
+2025-01-05 02:53:29 [simple] INFO: clashmeta is up to date, exiting
+2025-01-05 02:53:29 [simple] INFO: clashmeta is up to date, exiting
+2025-01-05 02:53:29 [simple] INFO: nodev2ray found /free-node/2025-1-5-node-share.htm on 2025-01-05
+2025-01-05 02:53:29 [simple] INFO: nodev2ray found /free-node/2025-1-4-free-ssr-node.htm on 2025-01-04
+2025-01-05 02:53:29 [simple] INFO: nodev2ray found /free-node/2025-1-3-v2ray-node.htm on 2025-01-03
+2025-01-05 02:53:29 [simple] INFO: nodev2ray found /free-node/2025-1-2-free-node-subscribe-links.htm on 2025-01-02
+2025-01-05 02:53:29 [simple] INFO: nodev2ray found /free-node/2025-1-1-free-node-subscribe.htm on 2025-01-01
+2025-01-05 02:53:29 [simple] INFO: nodev2ray is up to date, exiting
+2025-01-05 02:53:29 [simple] INFO: nodev2ray is up to date, exiting
+2025-01-05 02:53:29 [simple] INFO: nodev2ray is up to date, exiting
+2025-01-05 02:53:29 [simple] INFO: wenode found https://wenode.cc/a/2677.html on 2025-01-04
+2025-01-05 02:53:29 [simple] INFO: wenode found https://wenode.cc/a/2678.html on 2025-01-03
+2025-01-05 02:53:29 [simple] INFO: wenode found https://wenode.cc/a/2679.html on 2025-01-02
+2025-01-05 02:53:29 [simple] INFO: wenode found https://wenode.cc/a/2680.html on 2025-01-01
+2025-01-05 02:53:29 [simple] INFO: wenode needs update, accessing https://wenode.cc/a/2677.html
+2025-01-05 02:53:29 [simple] INFO: wenode is up to date, exiting
+2025-01-05 02:53:29 [simple] INFO: wenode is up to date, exiting
+2025-01-05 02:53:29 [simple] INFO: nodefree found https://nodefree.org/p/3046.html on 2025-01-03
+2025-01-05 02:53:29 [simple] INFO: nodefree found https://nodefree.org/p/3046.html on 2025-01-03
+2025-01-05 02:53:29 [simple] INFO: nodefree found https://nodefree.org/p/3047.html on 2025-01-02
+2025-01-05 02:53:29 [simple] INFO: nodefree found https://nodefree.org/p/3047.html on 2025-01-02
+2025-01-05 02:53:29 [simple] INFO: nodefree found https://nodefree.org/p/3048.html on 2025-01-01
+2025-01-05 02:53:29 [simple] INFO: nodefree found https://nodefree.org/p/3048.html on 2025-01-01
+2025-01-05 02:53:29 [simple] INFO: nodefree is up to date, exiting
+2025-01-05 02:53:29 [simple] INFO: nodefree is up to date, exiting
+2025-01-05 02:53:29 [simple] INFO: nodefree is up to date, exiting
+2025-01-05 02:53:29 [simple] INFO: v2rayshare found https://v2rayshare.com/p/4458.html on 2025-01-05
+2025-01-05 02:53:29 [simple] INFO: v2rayshare found https://v2rayshare.com/p/4459.html on 2025-01-04
+2025-01-05 02:53:29 [simple] INFO: v2rayshare found https://v2rayshare.com/p/4460.html on 2025-01-03
+2025-01-05 02:53:29 [simple] INFO: v2rayshare found https://v2rayshare.com/p/4461.html on 2025-01-02
+2025-01-05 02:53:29 [simple] INFO: v2rayshare found https://v2rayshare.com/p/4462.html on 2025-01-01
+2025-01-05 02:53:29 [simple] INFO: v2rayshare found https://v2rayshare.com/p/4458.html on 2025-01-05
+2025-01-05 02:53:29 [simple] INFO: v2rayshare found https://v2rayshare.com/p/4459.html on 2025-01-04
+2025-01-05 02:53:29 [simple] INFO: v2rayshare found https://v2rayshare.com/p/4460.html on 2025-01-03
+2025-01-05 02:53:29 [simple] INFO: v2rayshare found https://v2rayshare.com/p/4461.html on 2025-01-02
+2025-01-05 02:53:29 [simple] INFO: v2rayshare found https://v2rayshare.com/p/4462.html on 2025-01-01
+2025-01-05 02:53:29 [simple] INFO: v2rayshare needs update, accessing https://v2rayshare.com/p/4458.html
+2025-01-05 02:53:29 [simple] INFO: v2rayshare is up to date, exiting
+2025-01-05 02:53:29 [simple] INFO: v2rayshare is up to date, exiting
+2025-01-05 02:53:30 [simple] INFO: v2rayshare found https://v2rayshare.githubrowcontent.com/2025/01/20250105.txt
+2025-01-05 02:53:30 [simple] INFO: v2rayshare found https://v2rayshare.githubrowcontent.com/2025/01/20250105.yaml
+2025-01-05 02:53:30 [simple] INFO: Pipeline processing v2rayshare.txt
+2025-01-05 02:53:30 [simple] INFO: Pipeline processed v2rayshare.txt
+2025-01-05 02:53:31 [simple] INFO: Pipeline processing v2rayshare.yaml
+2025-01-05 02:53:31 [simple] INFO: Pipeline processed v2rayshare.yaml
+2025-01-05 02:53:31 [scrapy.core.engine] INFO: Closing spider (finished)
+2025-01-05 02:53:31 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 6247,
+ 'downloader/request_count': 19,
+ 'downloader/request_method_count/GET': 19,
+ 'downloader/response_bytes': 274565,
+ 'downloader/response_count': 19,
+ 'downloader/response_status_count/200': 15,
+ 'downloader/response_status_count/301': 2,
+ 'downloader/response_status_count/404': 2,
+ 'elapsed_time_seconds': 2.697463,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2025, 1, 5, 2, 53, 31, 565325, tzinfo=datetime.timezone.utc),
+ 'httpcompression/response_bytes': 364247,
+ 'httpcompression/response_count': 13,
+ 'item_scraped_count': 2,
+ 'items_per_minute': None,
+ 'log_count/INFO': 86,
+ 'memusage/max': 479748096,
+ 'memusage/startup': 479748096,
+ 'request_depth_max': 2,
+ 'response_received_count': 17,
+ 'responses_per_minute': None,
+ 'robotstxt/request_count': 7,
+ 'robotstxt/response_count': 7,
+ 'robotstxt/response_status_count/200': 5,
+ 'robotstxt/response_status_count/404': 2,
+ 'scheduler/dequeued': 10,
+ 'scheduler/dequeued/memory': 10,
+ 'scheduler/enqueued': 10,
+ 'scheduler/enqueued/memory': 10,
+ 'start_time': datetime.datetime(2025, 1, 5, 2, 53, 28, 867862, tzinfo=datetime.timezone.utc)}
+2025-01-05 02:53:31 [scrapy.core.engine] INFO: Spider closed (finished)
+2025-01-05 02:53:46 [scrapy.addons] INFO: Enabled addons:
+[]
+2025-01-05 02:53:46 [scrapy.extensions.telnet] INFO: Telnet Password: 788c9c45e041495e
+2025-01-05 02:53:46 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.logstats.LogStats']
+2025-01-05 02:53:46 [scrapy.crawler] INFO: Overridden settings:
+{'BOT_NAME': 'NodeScrapy',
+ 'FEED_EXPORT_ENCODING': 'utf-8',
+ 'LOG_FILE': 'scrapy.log',
+ 'LOG_LEVEL': 'INFO',
+ 'NEWSPIDER_MODULE': 'NodeScrapy.spiders',
+ 'REQUEST_FINGERPRINTER_IMPLEMENTATION': '2.7',
+ 'ROBOTSTXT_OBEY': True,
+ 'SPIDER_MODULES': ['NodeScrapy.spiders'],
+ 'TWISTED_REACTOR': 'twisted.internet.asyncioreactor.AsyncioSelectorReactor'}
+2025-01-05 02:53:46 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.downloadermiddlewares.robotstxt.RobotsTxtMiddleware',
+ 'scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'NodeScrapy.middlewares.RandomUserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2025-01-05 02:53:46 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2025-01-05 02:53:46 [scrapy.middleware] INFO: Enabled item pipelines:
+['NodeScrapy.pipelines.Pipeline']
+2025-01-05 02:53:46 [scrapy.core.engine] INFO: Spider opened
+2025-01-05 02:53:46 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-01-05 02:53:46 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2025-01-05 02:53:46 [decrypt] INFO: yudou66 start
+2025-01-05 02:53:46 [decrypt] INFO: blues start
+2025-01-05 02:53:47 [decrypt] INFO: yudou66 found https://www.yudou66.com/2025/01/202501052511080p4kv2rayclashsing.html on 2025-01-05
+2025-01-05 02:53:47 [decrypt] INFO: yudou66 found https://www.yudou66.com/2025/01/202501042881080p4kv2rayclashsing.html on 2025-01-04
+2025-01-05 02:53:47 [decrypt] INFO: yudou66 found https://www.yudou66.com/2025/01/202501032841080p4kv2rayclashsing.html on 2025-01-03
+2025-01-05 02:53:47 [decrypt] INFO: yudou66 found https://www.yudou66.com/2025/01/202501022971080p4kv2rayclashsing.html on 2025-01-02
+2025-01-05 02:53:47 [decrypt] INFO: yudou66 found https://www.yudou66.com/2024/12/202501012921080p4kv2rayclashsing.html on 2025-01-01
+2025-01-05 02:53:47 [decrypt] INFO: yudou66 found https://www.yudou66.com/2024/12/202501012921080p4kv2rayclashsing.html on 2025-01-01
+2025-01-05 02:53:47 [decrypt] INFO: yudou66 found https://www.yudou66.com/2025/01/202501022971080p4kv2rayclashsing.html on 2025-01-02
+2025-01-05 02:53:47 [decrypt] INFO: yudou66 found https://www.yudou66.com/2025/01/202501052511080p4kv2rayclashsing.html on 2025-01-05
+2025-01-05 02:53:47 [decrypt] INFO: yudou66 needs update, accessing https://www.yudou66.com/2025/01/202501052511080p4kv2rayclashsing.html
+2025-01-05 02:53:47 [decrypt] INFO: yudou66 needs update, accessing https://www.yudou66.com/2025/01/202501042881080p4kv2rayclashsing.html
+2025-01-05 02:53:47 [decrypt] INFO: yudou66 needs update, accessing https://www.yudou66.com/2025/01/202501032841080p4kv2rayclashsing.html
+2025-01-05 02:53:47 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/01/2025154kchatgpt4k8kclashv2ray.html on 2025-01-05
+2025-01-05 02:53:47 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/01/2025144kchatgpt4k8kclashv2ray.html on 2025-01-04
+2025-01-05 02:53:47 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/01/2025134kchatgpt4k8kclashv2ray.html on 2025-01-03
+2025-01-05 02:53:47 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/01/2025124kchatgpt4k8kclashv2ray.html on 2025-01-02
+2025-01-05 02:53:47 [decrypt] INFO: blues found https://blues2022.blogspot.com/2024/12/2025114kchatgpt4k8kclashv2ray.html on 2025-01-01
+2025-01-05 02:53:47 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/01/2025144kchatgpt4k8kclashv2ray.html on 2025-01-04
+2025-01-05 02:53:47 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/01/2025124kchatgpt4k8kclashv2ray.html on 2025-01-02
+2025-01-05 02:53:47 [decrypt] INFO: blues found https://blues2022.blogspot.com/2024/12/2025114kchatgpt4k8kclashv2ray.html on 2025-01-01
+2025-01-05 02:53:47 [decrypt] INFO: blues needs update, accessing https://blues2022.blogspot.com/2025/01/2025154kchatgpt4k8kclashv2ray.html
+2025-01-05 02:53:47 [decrypt] INFO: blues needs update, accessing https://blues2022.blogspot.com/2025/01/2025144kchatgpt4k8kclashv2ray.html
+2025-01-05 02:53:47 [decrypt] INFO: blues needs update, accessing https://blues2022.blogspot.com/2025/01/2025134kchatgpt4k8kclashv2ray.html
+2025-01-05 02:53:47 [decrypt] INFO: yudou66 found yt_url: https://youtu.be/P_R1N4jepLQ
+2025-01-05 02:53:48 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.yudou66.com/2025/01/202501052511080p4kv2rayclashsing.html?m=1> (referer: https://www.yudou66.com)
+Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/defer.py", line 327, in iter_errback
+    yield next(it)
+          ^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/python.py", line 368, in __next__
+    return next(self.data)
+           ^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/python.py", line 368, in __next__
+    return next(self.data)
+           ^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
+    yield from iterable
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/spidermiddlewares/referer.py", line 379, in <genexpr>
+    return (self._set_referer(r, response) for r in result)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
+    yield from iterable
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/spidermiddlewares/urllength.py", line 57, in <genexpr>
+    return (r for r in result if self._filter(r, spider))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
+    yield from iterable
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/spidermiddlewares/depth.py", line 54, in <genexpr>
+    return (r for r in result if self._filter(r, response, spider))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
+    yield from iterable
+  File "/home/runner/work/FreeNodes/FreeNodes/NodeScrapy/spiders/DecryptSpider.py", line 76, in parse_blog
+    pwdfinder = PwdFinder(name, self.logger, yt_url)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/FreeNodes/FreeNodes/utils/PwdFinder.py", line 65, in __init__
+    match = re.search(r"(?:\d{4}[-年])?(\d{1,2})[-月](\d{1,2})", yt.title)
+                                                                 ^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/__main__.py", line 691, in title
+    self._author = self.vid_info.get("videoDetails", {}).get(
+                   ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/__main__.py", line 426, in vid_info
+    innertube_response = innertube.player(self.video_id)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 871, in player
+    return self._call_api(endpoint, query, self.base_data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 765, in _call_api
+    self.fetch_bearer_token()
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 687, in fetch_bearer_token
+    self.oauth_verifier(verification_url, user_code)
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 521, in _default_oauth_verifier
+    input('Press enter when you have completed this step.')
+EOFError: EOF when reading a line
+2025-01-05 02:53:48 [decrypt] INFO: yudou66 found http://yy.yudou66.top/202501/20250103bj5ase.txt
+2025-01-05 02:53:48 [decrypt] INFO: yudou66 found http://yy.yudou66.top/202501/2025.1.3Clae4sh.yaml
+2025-01-05 02:53:48 [decrypt] INFO: yudou66 found yt_url: https://youtu.be/mLm52Pz41mw
+2025-01-05 02:53:50 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.yudou66.com/2025/01/202501042881080p4kv2rayclashsing.html?m=1> (referer: https://www.yudou66.com)
+Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/defer.py", line 327, in iter_errback
+    yield next(it)
+          ^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/python.py", line 368, in __next__
+    return next(self.data)
+           ^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/python.py", line 368, in __next__
+    return next(self.data)
+           ^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
+    yield from iterable
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/spidermiddlewares/referer.py", line 379, in <genexpr>
+    return (self._set_referer(r, response) for r in result)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
+    yield from iterable
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/spidermiddlewares/urllength.py", line 57, in <genexpr>
+    return (r for r in result if self._filter(r, spider))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
+    yield from iterable
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/spidermiddlewares/depth.py", line 54, in <genexpr>
+    return (r for r in result if self._filter(r, response, spider))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
+    yield from iterable
+  File "/home/runner/work/FreeNodes/FreeNodes/NodeScrapy/spiders/DecryptSpider.py", line 76, in parse_blog
+    pwdfinder = PwdFinder(name, self.logger, yt_url)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/FreeNodes/FreeNodes/utils/PwdFinder.py", line 65, in __init__
+    match = re.search(r"(?:\d{4}[-年])?(\d{1,2})[-月](\d{1,2})", yt.title)
+                                                                 ^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/__main__.py", line 691, in title
+    self._author = self.vid_info.get("videoDetails", {}).get(
+                   ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/__main__.py", line 426, in vid_info
+    innertube_response = innertube.player(self.video_id)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 871, in player
+    return self._call_api(endpoint, query, self.base_data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 765, in _call_api
+    self.fetch_bearer_token()
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 687, in fetch_bearer_token
+    self.oauth_verifier(verification_url, user_code)
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 521, in _default_oauth_verifier
+    input('Press enter when you have completed this step.')
+EOFError: EOF when reading a line
+2025-01-05 02:53:50 [decrypt] INFO: blues found yt_url: https://youtu.be/9KdwN5gFD2s
+2025-01-05 02:53:51 [scrapy.core.scraper] ERROR: Spider error processing <GET https://blues2022.blogspot.com/2025/01/2025144kchatgpt4k8kclashv2ray.html> (referer: https://blues2022.blogspot.com/?m=1)
+Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/defer.py", line 327, in iter_errback
+    yield next(it)
+          ^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/python.py", line 368, in __next__
+    return next(self.data)
+           ^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/python.py", line 368, in __next__
+    return next(self.data)
+           ^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
+    yield from iterable
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/spidermiddlewares/referer.py", line 379, in <genexpr>
+    return (self._set_referer(r, response) for r in result)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
+    yield from iterable
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/spidermiddlewares/urllength.py", line 57, in <genexpr>
+    return (r for r in result if self._filter(r, spider))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
+    yield from iterable
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/spidermiddlewares/depth.py", line 54, in <genexpr>
+    return (r for r in result if self._filter(r, response, spider))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
+    yield from iterable
+  File "/home/runner/work/FreeNodes/FreeNodes/NodeScrapy/spiders/DecryptSpider.py", line 76, in parse_blog
+    pwdfinder = PwdFinder(name, self.logger, yt_url)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/FreeNodes/FreeNodes/utils/PwdFinder.py", line 65, in __init__
+    match = re.search(r"(?:\d{4}[-年])?(\d{1,2})[-月](\d{1,2})", yt.title)
+                                                                 ^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/__main__.py", line 691, in title
+    self._author = self.vid_info.get("videoDetails", {}).get(
+                   ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/__main__.py", line 426, in vid_info
+    innertube_response = innertube.player(self.video_id)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 871, in player
+    return self._call_api(endpoint, query, self.base_data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 765, in _call_api
+    self.fetch_bearer_token()
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 687, in fetch_bearer_token
+    self.oauth_verifier(verification_url, user_code)
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 521, in _default_oauth_verifier
+    input('Press enter when you have completed this step.')
+EOFError: EOF when reading a line
+2025-01-05 02:53:51 [decrypt] INFO: blues found yt_url: https://youtu.be/A5uJZW-61RA
+2025-01-05 02:53:51 [scrapy.core.scraper] ERROR: Spider error processing <GET https://blues2022.blogspot.com/2025/01/2025154kchatgpt4k8kclashv2ray.html?m=1> (referer: https://blues2022.blogspot.com/?m=1)
+Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/defer.py", line 327, in iter_errback
+    yield next(it)
+          ^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/python.py", line 368, in __next__
+    return next(self.data)
+           ^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/python.py", line 368, in __next__
+    return next(self.data)
+           ^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
+    yield from iterable
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/spidermiddlewares/referer.py", line 379, in <genexpr>
+    return (self._set_referer(r, response) for r in result)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
+    yield from iterable
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/spidermiddlewares/urllength.py", line 57, in <genexpr>
+    return (r for r in result if self._filter(r, spider))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
+    yield from iterable
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/spidermiddlewares/depth.py", line 54, in <genexpr>
+    return (r for r in result if self._filter(r, response, spider))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
+    yield from iterable
+  File "/home/runner/work/FreeNodes/FreeNodes/NodeScrapy/spiders/DecryptSpider.py", line 76, in parse_blog
+    pwdfinder = PwdFinder(name, self.logger, yt_url)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/FreeNodes/FreeNodes/utils/PwdFinder.py", line 65, in __init__
+    match = re.search(r"(?:\d{4}[-年])?(\d{1,2})[-月](\d{1,2})", yt.title)
+                                                                 ^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/__main__.py", line 691, in title
+    self._author = self.vid_info.get("videoDetails", {}).get(
+                   ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/__main__.py", line 426, in vid_info
+    innertube_response = innertube.player(self.video_id)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 871, in player
+    return self._call_api(endpoint, query, self.base_data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 765, in _call_api
+    self.fetch_bearer_token()
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 687, in fetch_bearer_token
+    self.oauth_verifier(verification_url, user_code)
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 521, in _default_oauth_verifier
+    input('Press enter when you have completed this step.')
+EOFError: EOF when reading a line
+2025-01-05 02:53:51 [decrypt] INFO: blues found yt_url: https://youtu.be/G-VOg1oeVC0
+2025-01-05 02:53:53 [scrapy.core.scraper] ERROR: Spider error processing <GET https://blues2022.blogspot.com/2025/01/2025134kchatgpt4k8kclashv2ray.html?m=1> (referer: https://blues2022.blogspot.com/?m=1)
+Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/defer.py", line 327, in iter_errback
+    yield next(it)
+          ^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/python.py", line 368, in __next__
+    return next(self.data)
+           ^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/python.py", line 368, in __next__
+    return next(self.data)
+           ^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
+    yield from iterable
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/spidermiddlewares/referer.py", line 379, in <genexpr>
+    return (self._set_referer(r, response) for r in result)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
+    yield from iterable
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/spidermiddlewares/urllength.py", line 57, in <genexpr>
+    return (r for r in result if self._filter(r, spider))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
+    yield from iterable
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/spidermiddlewares/depth.py", line 54, in <genexpr>
+    return (r for r in result if self._filter(r, response, spider))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
+    yield from iterable
+  File "/home/runner/work/FreeNodes/FreeNodes/NodeScrapy/spiders/DecryptSpider.py", line 76, in parse_blog
+    pwdfinder = PwdFinder(name, self.logger, yt_url)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/FreeNodes/FreeNodes/utils/PwdFinder.py", line 65, in __init__
+    match = re.search(r"(?:\d{4}[-年])?(\d{1,2})[-月](\d{1,2})", yt.title)
+                                                                 ^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/__main__.py", line 691, in title
+    self._author = self.vid_info.get("videoDetails", {}).get(
+                   ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/__main__.py", line 426, in vid_info
+    innertube_response = innertube.player(self.video_id)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 871, in player
+    return self._call_api(endpoint, query, self.base_data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 765, in _call_api
+    self.fetch_bearer_token()
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 687, in fetch_bearer_token
+    self.oauth_verifier(verification_url, user_code)
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 521, in _default_oauth_verifier
+    input('Press enter when you have completed this step.')
+EOFError: EOF when reading a line
+2025-01-05 02:53:53 [decrypt] INFO: Pipeline processing yudou66.txt
+2025-01-05 02:53:53 [decrypt] INFO: Pipeline processed yudou66.txt
+2025-01-05 02:53:54 [decrypt] INFO: Pipeline processing yudou66.yaml
+2025-01-05 02:53:55 [scrapy.core.scraper] ERROR: Error processing {'body': 'port: 7890\n'
          'socks-port: 7891\n'
          'allow-lan: true\n'
          'mode: Rule\n'
          'log-level: info\n'
          'external-controller: :9090\n'
          'proxies:\n'
-         '  - {name: HK香港(mibei77.com 米贝节点分享), server: zx2.1010520.xyz, port: '
-         '30571, type: ss, cipher: chacha20-ietf-poly1305, password: '
+         '  - {name: 美国(yudou66.com 玉豆免费节点), server: zx3.1010520.xyz, port: '
+         '55003, type: ss, cipher: chacha20-ietf-poly1305, password: '
          'f5136746-de79-46d0-b3be-d15d9992fa07, udp: true}\n'
-         '  - {name: FR法国(mibei77.com 米贝节点分享), server: 62.210.88.22, port: '
-         '443, type: ss, cipher: chacha20-ietf-poly1305, password: '
-         'B03VO4S9bFunXRvthsZpCk, udp: true}\n'
-         '  - {name: US美国(mibei77.com 米贝节点分享), server: 120.198.71.214, port: '
-         '34493, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, '
-         'alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: '
+         '  - {name: 日本(yudou66.com 玉豆免费节点), server: 45.87.175.166, port: '
+         '8080, type: ss, cipher: chacha20-ietf-poly1305, password: '
+         'cvII85TrW6n0OGyfpHVS1u, udp: true}\n'
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 2, server: zx1.1010520.xyz, port: '
+         '26415, type: ss, cipher: chacha20-ietf-poly1305, password: '
+         'f5136746-de79-46d0-b3be-d15d9992fa07, udp: true}\n'
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 3, server: zx1.1010520.xyz, port: '
+         '27564, type: ss, cipher: chacha20-ietf-poly1305, password: '
+         'f5136746-de79-46d0-b3be-d15d9992fa07, udp: true}\n'
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 4, server: zx1.1010520.xyz, port: '
+         '26543, type: ss, cipher: chacha20-ietf-poly1305, password: '
+         'f5136746-de79-46d0-b3be-d15d9992fa07, udp: true}\n'
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 5, server: zx3.1010520.xyz, port: '
+         '26543, type: ss, cipher: chacha20-ietf-poly1305, password: '
+         'f5136746-de79-46d0-b3be-d15d9992fa07, udp: true}\n'
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 6, server: zx2.1010520.xyz, port: '
+         '55003, type: ss, cipher: chacha20-ietf-poly1305, password: '
+         'f5136746-de79-46d0-b3be-d15d9992fa07, udp: true}\n'
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 7, server: 103.149.183.178, port: '
+         '54675, type: vmess, uuid: 3a907956-f668-4e6b-ea03-0949f0c9c0a5, '
+         'alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: '
          'true}\n'
-         '  - {name: 俄罗斯(mibei77.com 米贝节点分享), server: 45.8.158.32, port: '
-         '14556, type: vmess, uuid: 398ce84e-4849-4e5f-9b1a-a56fbe233b81, '
-         'alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, '
-         'network: ws, ws-path: /, ws-headers: {Host: 45.8.158.32}, udp: '
-         'true}\n'
-         '  - {name: US美国(mibei77.com 米贝节点分享) 2, server: '
-         'tight-clam.boa152.lol, port: 443, type: trojan, password: !<str> '
-         '3723507166611775488, sni: tight-clam.boa152.lol, skip-cert-verify: '
-         'true, udp: true}\n'
-         '  - {name: US美国(mibei77.com 米贝节点分享) 3, server: '
-         'usable-toad.treefrog761.one, port: 443, type: trojan, password: '
-         '!<str> 3723507166611775488, sni: usable-toad.treefrog761.one, '
-         'skip-cert-verify: true, udp: true}\n'
-         '  - {name: US美国(mibei77.com 米贝节点分享) 4, server: 5.189.203.38, port: '
-         '443, type: trojan, password: !<str> 3723507166611775488, '
-         'skip-cert-verify: true, udp: true}\n'
-         '  - {name: 乌克兰(mibei77.com 米贝节点分享), server: sacred-guppy.boa152.lol, '
-         'port: 443, type: trojan, password: !<str> 3723507166611775488, sni: '
-         'sacred-guppy.boa152.lol, skip-cert-verify: true, udp: true}\n'
-         '  - {name: 俄罗斯(mibei77.com 米贝节点分享) 2, server: 195.133.93.234, port: '
-         '443, type: trojan, password: !<str> 3723507166611775488, '
-         'skip-cert-verify: true, udp: true}\n'
-         '  - {name: US美国(mibei77.com 米贝节点分享) 5, server: 37.9.34.121, port: '
-         '443, type: trojan, password: !<str> 3723507166611775488, '
-         'skip-cert-verify: true, udp: true}\n'
-         '  - {name: 俄罗斯(mibei77.com 米贝节点分享) 3, server: '
-         'wise-cowbird.boa152.lol, port: 443, type: trojan, password: !<str> '
-         '3723507166611775488, sni: wise-cowbird.boa152.lol, skip-cert-verify: '
-         'true, udp: true}\n'
-         '  - {name: 俄罗斯(mibei77.com 米贝节点分享) 4, server: 185.22.155.228, port: '
-         '23456, type: ss, cipher: aes-256-gcm, password: dongtaiwang.com, '
-         'udp: true}\n'
-         '  - {name: US美国(mibei77.com 米贝节点分享) 6, server: 183.236.48.158, port: '
-         '50052, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, '
-         'alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: '
-         'true}\n'
-         '  - {name: US美国(mibei77.com 米贝节点分享) 7, server: 183.236.51.23, port: '
-         '53002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, '
-         'alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: '
-         'true}\n'
-         '  - {name: US美国(mibei77.com 米贝节点分享) 8, server: 120.234.102.229, '
-         'port: 52908, type: vmess, uuid: '
-         '418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, '
-         'tls: false, skip-cert-verify: true, udp: true}\n'
-         '  - {name: US美国(mibei77.com 米贝节点分享) 9, server: 183.236.51.23, port: '
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 8, server: zx3.1010520.xyz, port: '
+         '27564, type: ss, cipher: chacha20-ietf-poly1305, password: '
+         'f5136746-de79-46d0-b3be-d15d9992fa07, udp: true}\n'
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 9, server: zx1.1010520.xyz, port: '
+         '43812, type: ss, cipher: chacha20-ietf-poly1305, password: '
+         'f5136746-de79-46d0-b3be-d15d9992fa07, udp: true}\n'
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 10, server: 183.236.51.23, port: '
          '51704, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, '
          'alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: '
          'true}\n'
-         '  - {name: HK香港(mibei77.com 米贝节点分享) 2, server: 62.112.221.46, port: '
-         '443, type: trojan, password: !<str> 3723507166611775488, '
-         'skip-cert-verify: true, udp: true}\n'
-         '  - {name: US美国(mibei77.com 米贝节点分享) 10, server: '
-         'native-tetra.boa152.lol, port: 443, type: trojan, password: !<str> '
-         '3723507166611775488, sni: native-tetra.boa152.lol, skip-cert-verify: '
-         'true, udp: true}\n'
-         '  - {name: HK香港(mibei77.com 米贝节点分享) 3, server: '
-         'boss-hound.boa152.lol, port: 443, type: trojan, password: !<str> '
-         '3723507166611775488, sni: boss-hound.boa152.lol, skip-cert-verify: '
-         'true, udp: true}\n'
-         '  - {name: DE德国(mibei77.com 米贝节点分享), server: 3.135.39.68, port: 443, '
-         'type: trojan, password: !<str> 3723507166611775488, '
-         'skip-cert-verify: true, udp: true}\n'
-         '  - {name: US美国(mibei77.com 米贝节点分享) 11, server: 208.67.105.87, port: '
-         '42501, type: ss, cipher: chacha20-ietf-poly1305, password: '
-         'nq96KftrZAj3LuFQESqmn44Mo5oCuo2cipoEsae25mrmHG2oJ4VT37scBfVBpN5DWtUELZutVhhXs8Le5B8fZ9hLn9ytwvbf, '
-         'udp: true}\n'
-         '  - {name: PL波兰(mibei77.com 米贝节点分享), server: 91.206.179.179, port: '
-         '443, type: trojan, password: !<str> 3723507166611775488, '
-         'skip-cert-verify: true, udp: true}\n'
-         '  - {name: PL波兰(mibei77.com 米贝节点分享) 2, server: 94.177.131.199, port: '
-         '443, type: trojan, password: !<str> 3723507166611775488, '
-         'skip-cert-verify: true, udp: true}\n'
-         '  - {name: US美国(mibei77.com 米贝节点分享) 12, server: 183.236.51.23, port: '
-         '56601, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, '
-         'alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: '
-         'true}\n'
-         '  - {name: US美国(mibei77.com 米贝节点分享) 13, server: 23.88.37.31, port: '
-         '443, type: ss, cipher: chacha20-ietf-poly1305, password: LuxyNetBot, '
-         'udp: true}\n'
-         '  - {name: HK香港(mibei77.com 米贝节点分享) 4, server: cm1.awslcn.info, '
-         'port: 25230, type: vmess, uuid: '
-         '243eab52-9ac1-405c-887c-eb112c0985b8, alterId: 0, cipher: auto, tls: '
-         'false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: '
-         '{Host: cm1.awslcn.info}, udp: true}\n'
-         '  - {name: US美国(mibei77.com 米贝节点分享) 14, server: 103.149.183.178, '
-         'port: 27512, type: vmess, uuid: '
-         '96d38683-0817-4d91-bffa-6f03df18d9dc, alterId: 0, cipher: auto, tls: '
-         'false, skip-cert-verify: true, udp: true}\n'
-         '  - {name: US美国(mibei77.com 米贝节点分享) 15, server: apple.slumbo.com, '
-         'port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: '
-         'LuxyNetBot, udp: true}\n'
-         '  - {name: 俄罗斯(mibei77.com 米贝节点分享) 5, server: '
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 11, server: zx2.1010520.xyz, port: '
+         '34857, type: ss, cipher: chacha20-ietf-poly1305, password: '
+         'f5136746-de79-46d0-b3be-d15d9992fa07, udp: true}\n'
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 12, server: zx1.1010520.xyz, port: '
+         '55003, type: ss, cipher: chacha20-ietf-poly1305, password: '
+         'f5136746-de79-46d0-b3be-d15d9992fa07, udp: true}\n'
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 13, server: zx1.1010520.xyz, port: '
+         '30571, type: ss, cipher: chacha20-ietf-poly1305, password: '
+         'f5136746-de79-46d0-b3be-d15d9992fa07, udp: true}\n'
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 14, server: zx1.1010520.xyz, port: '
+         '34857, type: ss, cipher: chacha20-ietf-poly1305, password: '
+         'f5136746-de79-46d0-b3be-d15d9992fa07, udp: true}\n'
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 15, server: zx2.1010520.xyz, port: '
+         '26415, type: ss, cipher: chacha20-ietf-poly1305, password: '
+         'f5136746-de79-46d0-b3be-d15d9992fa07, udp: true}\n'
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 16, server: '
          'holy-seahorse.boa152.lol, port: 443, type: trojan, password: !<str> '
          '3723507166611775488, sni: holy-seahorse.boa152.lol, '
          'skip-cert-verify: true, udp: true}\n'
-         '  - {name: 俄罗斯(mibei77.com 米贝节点分享) 6, server: 195.133.93.10, port: '
-         '443, type: trojan, password: !<str> 3723507166611775488, '
-         'skip-cert-verify: true, udp: true}\n'
-         '  - {name: US美国(mibei77.com 米贝节点分享) 16, server: 120.232.153.63, '
-         'port: 40972, type: vmess, uuid: '
-         '770ee730-2450-4e3c-a6c6-3932bd32afbd, alterId: 64, cipher: auto, '
-         'tls: false, skip-cert-verify: true, udp: true}\n'
-         '  - {name: 俄罗斯(mibei77.com 米贝节点分享) 7, server: fitting-ox.boa152.lol, '
-         'port: 443, type: trojan, password: !<str> 3723507166611775488, sni: '
-         'fitting-ox.boa152.lol, skip-cert-verify: true, udp: true}\n'
-         '  - {name: LU卢森堡(mibei77.com 米贝节点分享), server: zx1.1010520.xyz, port: '
-         '27564, type: ss, cipher: chacha20-ietf-poly1305, password: '
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 17, server: zx3.1010520.xyz, port: '
+         '43812, type: ss, cipher: chacha20-ietf-poly1305, password: '
          'f5136746-de79-46d0-b3be-d15d9992fa07, udp: true}\n'
-         '  - {name: US美国(mibei77.com 米贝节点分享) 17, server: 5.189.203.50, port: '
-         '443, type: trojan, password: !<str> 3723507166611775488, '
-         'skip-cert-verify: true, udp: true}\n'
-         '  - {name: 俄罗斯(mibei77.com 米贝节点分享) 8, server: '
-         'oriented-terrier.boa152.lol, port: 443, type: trojan, password: '
-         '!<str> 3723507166611775488, sni: oriented-terrier.boa152.lol, '
-         'skip-cert-verify: true, udp: true}\n'
-         '  - {name: HK香港(mibei77.com 米贝节点分享) 5, server: 87.120.167.51, port: '
-         '443, type: trojan, password: !<str> 3723507166611775488, '
-         'skip-cert-verify: true, udp: true}\n'
-         '  - {name: PL波兰(mibei77.com 米贝节点分享) 3, server: '
-         'smiling-marmoset.boa152.lol, port: 443, type: trojan, password: '
-         '!<str> 3723507166611775488, sni: smiling-marmoset.boa152.lol, '
-         'skip-cert-verify: true, udp: true}\n'
-         '  - {name: FR法国(mibei77.com 米贝节点分享) 2, server: cm1.awslcn.info, '
-         'port: 25230, type: vmess, uuid: '
-         '243eab52-9ac1-405c-887c-eb112c0985b8, alterId: 0, cipher: auto, tls: '
-         'false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: '
-         '{Host: cm1.awslcn.info}, udp: true}\n'
-         '  - {name: US美国(mibei77.com 米贝节点分享) 18, server: shs.xiaoqi666.xyz, '
-         'port: 2086, type: vmess, uuid: 3fd7b958-2161-46e1-b6fc-bd6bb2165312, '
-         'alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, '
-         'network: ws, ws-path: /, ws-headers: {Host: shs.xiaoqi666.xyz}, udp: '
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 18, server: zx2.1010520.xyz, port: '
+         '30571, type: ss, cipher: chacha20-ietf-poly1305, password: '
+         'f5136746-de79-46d0-b3be-d15d9992fa07, udp: true}\n'
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 19, server: 120.232.153.63, port: '
+         '40972, type: vmess, uuid: 770ee730-2450-4e3c-a6c6-3932bd32afbd, '
+         'alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: '
          'true}\n'
-         '  - {name: US美国(mibei77.com 米贝节点分享) 19, server: 103.149.183.178, '
-         'port: 54675, type: vmess, uuid: '
-         '3a907956-f668-4e6b-ea03-0949f0c9c0a5, alterId: 0, cipher: auto, tls: '
-         'false, skip-cert-verify: true, udp: true}\n'
-         '  - {name: HK香港(mibei77.com 米贝节点分享) 6, server: '
-         'concrete-buzzard.boa152.lol, port: 443, type: trojan, password: '
-         '!<str> 3723507166611775488, sni: concrete-buzzard.boa152.lol, '
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 20, server: zx3.1010520.xyz, port: '
+         '30571, type: ss, cipher: chacha20-ietf-poly1305, password: '
+         'f5136746-de79-46d0-b3be-d15d9992fa07, udp: true}\n'
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 21, server: 168.138.142.53, port: '
+         '443, type: trojan, password: 9d0a75d2-f747-4afa-b43f-d208af9e8f9a, '
          'skip-cert-verify: true, udp: true}\n'
-         '  - {name: FR法国(mibei77.com 米贝节点分享) 3, server: '
-         'devoted-starfish.boa152.lol, port: 443, type: trojan, password: '
-         '!<str> 3723507166611775488, sni: devoted-starfish.boa152.lol, '
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 22, server: 183.236.51.23, port: '
+         '53002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, '
+         'alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: '
+         'true}\n'
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 23, server: 5.189.203.50, port: '
+         '443, type: trojan, password: !<str> 3723507166611775488, '
          'skip-cert-verify: true, udp: true}\n'
-         '  - {name: US美国(mibei77.com 米贝节点分享) 20, server: 104.26.9.227, port: '
-         '443, type: trojan, password: b80Iy90Fma, skip-cert-verify: true, '
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 24, server: 45.87.175.171, port: '
+         '8080, type: ss, cipher: chacha20-ietf-poly1305, password: '
+         '4a2rfixophdjffa8KVA4Aa, udp: true}\n'
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 25, server: 5.189.203.38, port: '
+         '443, type: trojan, password: !<str> 3723507166611775488, '
+         'skip-cert-verify: true, udp: true}\n'
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 26, server: 23.88.37.31, port: '
+         '443, type: ss, cipher: chacha20-ietf-poly1305, password: LuxyNetBot, '
          'udp: true}\n'
-         '  - {name: HK香港(mibei77.com 米贝节点分享) 7, server: zx3.1010520.xyz, '
-         'port: 30571, type: ss, cipher: chacha20-ietf-poly1305, password: '
-         'f5136746-de79-46d0-b3be-d15d9992fa07, udp: true}\n'
-         '  - {name: 俄罗斯(mibei77.com 米贝节点分享) 9, server: 195.133.93.221, port: '
-         '443, type: trojan, password: !<str> 3723507166611775488, '
-         'skip-cert-verify: true, udp: true}\n'
-         '  - {name: 俄罗斯(mibei77.com 米贝节点分享) 10, server: '
-         'pleased-airedale.boa152.lol, port: 443, type: trojan, password: '
-         '!<str> 3723507166611775488, sni: pleased-airedale.boa152.lol, '
-         'skip-cert-verify: true, udp: true}\n'
-         '  - {name: 俄罗斯(mibei77.com 米贝节点分享) 11, server: '
-         'social-bream.boa152.lol, port: 443, type: trojan, password: !<str> '
-         '3723507166611775488, sni: social-bream.boa152.lol, skip-cert-verify: '
-         'true, udp: true}\n'
-         '  - {name: 俄罗斯(mibei77.com 米贝节点分享) 12, server: '
-         'pleased-slug.boa152.lol, port: 443, type: trojan, password: !<str> '
-         '3723507166611775488, sni: pleased-slug.boa152.lol, skip-cert-verify: '
-         'true, udp: true}\n'
-         '  - {name: 俄罗斯(mibei77.com 米贝节点分享) 13, server: 80.240.112.236, port: '
-         '443, type: trojan, password: !<str> 3723507166611775488, '
-         'skip-cert-verify: true, udp: true}\n'
-         '  - {name: HK香港(mibei77.com 米贝节点分享) 8, server: '
-         'profound-elk.boa152.lol, port: 443, type: trojan, password: !<str> '
-         '3723507166611775488, sni: profound-elk.boa152.lol, skip-cert-verify: '
-         'true, udp: true}\n'
-         '  - {name: US美国(mibei77.com 米贝节点分享) 21, server: '
-         'arxfw2b78fi2q9hzylhn.freesocks.work, port: 443, type: ss, cipher: '
-         'chacha20-ietf-poly1305, password: Nk9asglDzHzjktVzTkvhaA, udp: '
-         'true}\n'
-         '  - {name: 俄罗斯(mibei77.com 米贝节点分享) 14, server: '
+         '  - {name: 俄罗斯(yudou66.com 玉豆免费节点), server: '
          'ample-cockatoo.boa152.lol, port: 443, type: trojan, password: !<str> '
          '3723507166611775488, sni: ample-cockatoo.boa152.lol, '
          'skip-cert-verify: true, udp: true}\n'
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 27, server: zx2.1010520.xyz, port: '
+         '56315, type: ss, cipher: chacha20-ietf-poly1305, password: '
+         'f5136746-de79-46d0-b3be-d15d9992fa07, udp: true}\n'
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 28, server: apple.slumbo.com, '
+         'port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: '
+         'LuxyNetBot, udp: true}\n'
+         '  - {name: 英国(yudou66.com 玉豆免费节点), server: 212.102.53.193, port: '
+         '443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: '
+         'true}\n'
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 29, server: 120.234.102.229, port: '
+         '52908, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, '
+         'alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: '
+         'true}\n'
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 30, server: 120.198.71.214, port: '
+         '34493, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, '
+         'alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: '
+         'true}\n'
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 31, server: 92.242.220.22, port: '
+         '37885, type: vmess, uuid: 8dee19ab-50ce-4d06-be42-5e53c8989ccc, '
+         'alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: '
+         'true}\n'
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 32, server: zx2.1010520.xyz, port: '
+         '26543, type: ss, cipher: chacha20-ietf-poly1305, password: '
+         'f5136746-de79-46d0-b3be-d15d9992fa07, udp: true}\n'
+         '  - {name: 俄罗斯(yudou66.com 玉豆免费节点) 2, server: 195.133.93.234, port: '
+         '443, type: trojan, password: !<str> 3723507166611775488, '
+         'skip-cert-verify: true, udp: true}\n'
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 33, server: zx3.1010520.xyz, port: '
+         '56315, type: ss, cipher: chacha20-ietf-poly1305, password: '
+         'f5136746-de79-46d0-b3be-d15d9992fa07, udp: true}\n'
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 34, server: cm1.awslcn.info, port: '
+         '25230, type: vmess, uuid: 243eab52-9ac1-405c-887c-eb112c0985b8, '
+         'alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, '
+         'network: ws, ws-path: /, ws-headers: {Host: cm1.awslcn.info}, udp: '
+         'true}\n'
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 35, server: 208.67.105.87, port: '
+         '42501, type: ss, cipher: chacha20-ietf-poly1305, password: '
+         'nq96KftrZAj3LuFQESqmn44Mo5oCuo2cipoEsae25mrmHG2oJ4VT37scBfVBpN5DWtUELZutVhhXs8Le5B8fZ9hLn9ytwvbf, '
+         'udp: true}\n'
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 36, server: '
+         'super-goblin.treefrog761.one, port: 443, type: trojan, password: '
+         '!<str> 3723507166611775488, sni: super-goblin.treefrog761.one, '
+         'skip-cert-verify: true, udp: true}\n'
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 37, server: 183.236.48.158, port: '
+         '50052, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, '
+         'alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: '
+         'true}\n'
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 38, server: cm1.awslcn.info, port: '
+         '25230, type: vmess, uuid: 243eab52-9ac1-405c-887c-eb112c0985b8, '
+         'alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, '
+         'network: ws, ws-path: /, ws-headers: {Host: cm1.awslcn.info}, udp: '
+         'true}\n'
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 39, server: 103.149.183.178, port: '
+         '27512, type: vmess, uuid: 96d38683-0817-4d91-bffa-6f03df18d9dc, '
+         'alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: '
+         'true}\n'
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 40, server: zx3.1010520.xyz, port: '
+         '34857, type: ss, cipher: chacha20-ietf-poly1305, password: '
+         'f5136746-de79-46d0-b3be-d15d9992fa07, udp: true}\n'
+         '  - {name: 俄罗斯(yudou66.com 玉豆免费节点) 3, server: 185.22.155.228, port: '
+         '23456, type: ss, cipher: aes-256-gcm, password: dongtaiwang.com, '
+         'udp: true}\n'
+         '  - {name: 日本(yudou66.com 玉豆免费节点) 2, server: '
+         'arxfw2b78fi2q9hzylhn.freesocks.work, port: 443, type: ss, cipher: '
+         'chacha20-ietf-poly1305, password: Nk9asglDzHzjktVzTkvhaA, udp: '
+         'true}\n'
+         '  - {name: 德国(yudou66.com 玉豆免费节点), server: 45.87.175.199, port: '
+         '8080, type: ss, cipher: chacha20-ietf-poly1305, password: '
+         '4a2rfixophdjffa8KVA4Aa, udp: true}\n'
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 41, server: zx3.1010520.xyz, port: '
+         '26415, type: ss, cipher: chacha20-ietf-poly1305, password: '
+         'f5136746-de79-46d0-b3be-d15d9992fa07, udp: true}\n'
+         '  - {name: 俄罗斯(yudou66.com 玉豆免费节点) 4, server: 185.22.155.228, port: '
+         '23456, type: ss, cipher: aes-256-gcm, password: dongtaiwang.com, '
+         'udp: true}\n'
+         '  - {name: 韩国(yudou66.com 玉豆免费节点), server: 132.145.94.80, port: 443, '
+         'type: trojan, password: e8105dfd24414268b6c7652c63731097, '
+         'skip-cert-verify: true, udp: true}\n'
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 42, server: zx2.1010520.xyz, port: '
+         '27564, type: ss, cipher: chacha20-ietf-poly1305, password: '
+         'f5136746-de79-46d0-b3be-d15d9992fa07, udp: true}\n'
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 43, server: 45.87.175.199, port: '
+         '8080, type: ss, cipher: chacha20-ietf-poly1305, password: '
+         'cvII85TrW6n0OGyfpHVS1u, udp: true}\n'
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 44, server: zx2.1010520.xyz, port: '
+         '43812, type: ss, cipher: chacha20-ietf-poly1305, password: '
+         'f5136746-de79-46d0-b3be-d15d9992fa07, udp: true}\n'
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 45, server: 13.48.19.247, port: '
+         '443, type: trojan, password: !<str> 3723507166611775488, '
+         'skip-cert-verify: true, udp: true}\n'
+         '  - {name: 日本(yudou66.com 玉豆免费节点) 3, server: '
+         'arxfw2b78fi2q9hzylhn.freesocks.work, port: 443, type: ss, cipher: '
+         'chacha20-ietf-poly1305, password: Nk9asglDzHzjktVzTkvhaA, udp: '
+         'true}\n'
+         '  - {name: 美国(yudou66.com 玉豆免费节点) 46, server: zx1.1010520.xyz, port: '
+         '56315, type: ss, cipher: chacha20-ietf-poly1305, password: '
+         'f5136746-de79-46d0-b3be-d15d9992fa07, udp: true}\n'
          'proxy-groups:\n'
          '  - name: 🔰 节点选择\n'
          '    type: select\n'
          '    proxies:\n'
          '      - ♻️ 自动选择\n'
          '      - 🎯 全球直连\n'
-         '      - HK香港(mibei77.com 米贝节点分享)\n'
-         '      - FR法国(mibei77.com 米贝节点分享)\n'
-         '      - US美国(mibei77.com 米贝节点分享)\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享)\n'
-         '      - US美国(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 3\n'
-         '      - US美国(mibei77.com 米贝节点分享) 4\n'
-         '      - 乌克兰(mibei77.com 米贝节点分享)\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 5\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 3\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 4\n'
-         '      - US美国(mibei77.com 米贝节点分享) 6\n'
-         '      - US美国(mibei77.com 米贝节点分享) 7\n'
-         '      - US美国(mibei77.com 米贝节点分享) 8\n'
-         '      - US美国(mibei77.com 米贝节点分享) 9\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 10\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 3\n'
-         '      - DE德国(mibei77.com 米贝节点分享)\n'
-         '      - US美国(mibei77.com 米贝节点分享) 11\n'
-         '      - PL波兰(mibei77.com 米贝节点分享)\n'
-         '      - PL波兰(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 12\n'
-         '      - US美国(mibei77.com 米贝节点分享) 13\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 4\n'
-         '      - US美国(mibei77.com 米贝节点分享) 14\n'
-         '      - US美国(mibei77.com 米贝节点分享) 15\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 5\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 6\n'
-         '      - US美国(mibei77.com 米贝节点分享) 16\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 7\n'
-         '      - LU卢森堡(mibei77.com 米贝节点分享)\n'
-         '      - US美国(mibei77.com 米贝节点分享) 17\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 8\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 5\n'
-         '      - PL波兰(mibei77.com 米贝节点分享) 3\n'
-         '      - FR法国(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 18\n'
-         '      - US美国(mibei77.com 米贝节点分享) 19\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 6\n'
-         '      - FR法国(mibei77.com 米贝节点分享) 3\n'
-         '      - US美国(mibei77.com 米贝节点分享) 20\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 7\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 9\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 10\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 11\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 12\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 13\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 8\n'
-         '      - US美国(mibei77.com 米贝节点分享) 21\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 14\n'
+         '      - 美国(yudou66.com 玉豆免费节点)\n'
+         '      - 日本(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 2\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 3\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 4\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 5\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 6\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 7\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 8\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 9\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 10\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 11\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 12\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 13\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 14\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 15\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 16\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 17\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 18\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 19\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 20\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 21\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 22\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 23\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 24\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 25\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 26\n'
+         '      - 俄罗斯(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 27\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 28\n'
+         '      - 英国(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 29\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 30\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 31\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 32\n'
+         '      - 俄罗斯(yudou66.com 玉豆免费节点) 2\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 33\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 34\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 35\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 36\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 37\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 38\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 39\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 40\n'
+         '      - 俄罗斯(yudou66.com 玉豆免费节点) 3\n'
+         '      - 日本(yudou66.com 玉豆免费节点) 2\n'
+         '      - 德国(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 41\n'
+         '      - 俄罗斯(yudou66.com 玉豆免费节点) 4\n'
+         '      - 韩国(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 42\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 43\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 44\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 45\n'
+         '      - 日本(yudou66.com 玉豆免费节点) 3\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 46\n'
          '  - name: ♻️ 自动选择\n'
          '    type: url-test\n'
          '    url: http://www.gstatic.com/generate_204\n'
          '    interval: 300\n'
          '    proxies:\n'
-         '      - HK香港(mibei77.com 米贝节点分享)\n'
-         '      - FR法国(mibei77.com 米贝节点分享)\n'
-         '      - US美国(mibei77.com 米贝节点分享)\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享)\n'
-         '      - US美国(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 3\n'
-         '      - US美国(mibei77.com 米贝节点分享) 4\n'
-         '      - 乌克兰(mibei77.com 米贝节点分享)\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 5\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 3\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 4\n'
-         '      - US美国(mibei77.com 米贝节点分享) 6\n'
-         '      - US美国(mibei77.com 米贝节点分享) 7\n'
-         '      - US美国(mibei77.com 米贝节点分享) 8\n'
-         '      - US美国(mibei77.com 米贝节点分享) 9\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 10\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 3\n'
-         '      - DE德国(mibei77.com 米贝节点分享)\n'
-         '      - US美国(mibei77.com 米贝节点分享) 11\n'
-         '      - PL波兰(mibei77.com 米贝节点分享)\n'
-         '      - PL波兰(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 12\n'
-         '      - US美国(mibei77.com 米贝节点分享) 13\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 4\n'
-         '      - US美国(mibei77.com 米贝节点分享) 14\n'
-         '      - US美国(mibei77.com 米贝节点分享) 15\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 5\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 6\n'
-         '      - US美国(mibei77.com 米贝节点分享) 16\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 7\n'
-         '      - LU卢森堡(mibei77.com 米贝节点分享)\n'
-         '      - US美国(mibei77.com 米贝节点分享) 17\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 8\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 5\n'
-         '      - PL波兰(mibei77.com 米贝节点分享) 3\n'
-         '      - FR法国(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 18\n'
-         '      - US美国(mibei77.com 米贝节点分享) 19\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 6\n'
-         '      - FR法国(mibei77.com 米贝节点分享) 3\n'
-         '      - US美国(mibei77.com 米贝节点分享) 20\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 7\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 9\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 10\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 11\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 12\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 13\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 8\n'
-         '      - US美国(mibei77.com 米贝节点分享) 21\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 14\n'
+         '      - 美国(yudou66.com 玉豆免费节点)\n'
+         '      - 日本(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 2\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 3\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 4\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 5\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 6\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 7\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 8\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 9\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 10\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 11\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 12\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 13\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 14\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 15\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 16\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 17\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 18\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 19\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 20\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 21\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 22\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 23\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 24\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 25\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 26\n'
+         '      - 俄罗斯(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 27\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 28\n'
+         '      - 英国(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 29\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 30\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 31\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 32\n'
+         '      - 俄罗斯(yudou66.com 玉豆免费节点) 2\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 33\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 34\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 35\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 36\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 37\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 38\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 39\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 40\n'
+         '      - 俄罗斯(yudou66.com 玉豆免费节点) 3\n'
+         '      - 日本(yudou66.com 玉豆免费节点) 2\n'
+         '      - 德国(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 41\n'
+         '      - 俄罗斯(yudou66.com 玉豆免费节点) 4\n'
+         '      - 韩国(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 42\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 43\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 44\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 45\n'
+         '      - 日本(yudou66.com 玉豆免费节点) 3\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 46\n'
          '  - name: 🎥 NETFLIX\n'
          '    type: select\n'
          '    proxies:\n'
          '      - 🔰 节点选择\n'
          '      - ♻️ 自动选择\n'
          '      - 🎯 全球直连\n'
-         '      - HK香港(mibei77.com 米贝节点分享)\n'
-         '      - FR法国(mibei77.com 米贝节点分享)\n'
-         '      - US美国(mibei77.com 米贝节点分享)\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享)\n'
-         '      - US美国(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 3\n'
-         '      - US美国(mibei77.com 米贝节点分享) 4\n'
-         '      - 乌克兰(mibei77.com 米贝节点分享)\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 5\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 3\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 4\n'
-         '      - US美国(mibei77.com 米贝节点分享) 6\n'
-         '      - US美国(mibei77.com 米贝节点分享) 7\n'
-         '      - US美国(mibei77.com 米贝节点分享) 8\n'
-         '      - US美国(mibei77.com 米贝节点分享) 9\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 10\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 3\n'
-         '      - DE德国(mibei77.com 米贝节点分享)\n'
-         '      - US美国(mibei77.com 米贝节点分享) 11\n'
-         '      - PL波兰(mibei77.com 米贝节点分享)\n'
-         '      - PL波兰(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 12\n'
-         '      - US美国(mibei77.com 米贝节点分享) 13\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 4\n'
-         '      - US美国(mibei77.com 米贝节点分享) 14\n'
-         '      - US美国(mibei77.com 米贝节点分享) 15\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 5\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 6\n'
-         '      - US美国(mibei77.com 米贝节点分享) 16\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 7\n'
-         '      - LU卢森堡(mibei77.com 米贝节点分享)\n'
-         '      - US美国(mibei77.com 米贝节点分享) 17\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 8\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 5\n'
-         '      - PL波兰(mibei77.com 米贝节点分享) 3\n'
-         '      - FR法国(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 18\n'
-         '      - US美国(mibei77.com 米贝节点分享) 19\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 6\n'
-         '      - FR法国(mibei77.com 米贝节点分享) 3\n'
-         '      - US美国(mibei77.com 米贝节点分享) 20\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 7\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 9\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 10\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 11\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 12\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 13\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 8\n'
-         '      - US美国(mibei77.com 米贝节点分享) 21\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 14\n'
+         '      - 美国(yudou66.com 玉豆免费节点)\n'
+         '      - 日本(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 2\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 3\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 4\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 5\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 6\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 7\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 8\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 9\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 10\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 11\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 12\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 13\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 14\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 15\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 16\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 17\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 18\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 19\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 20\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 21\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 22\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 23\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 24\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 25\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 26\n'
+         '      - 俄罗斯(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 27\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 28\n'
+         '      - 英国(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 29\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 30\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 31\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 32\n'
+         '      - 俄罗斯(yudou66.com 玉豆免费节点) 2\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 33\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 34\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 35\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 36\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 37\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 38\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 39\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 40\n'
+         '      - 俄罗斯(yudou66.com 玉豆免费节点) 3\n'
+         '      - 日本(yudou66.com 玉豆免费节点) 2\n'
+         '      - 德国(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 41\n'
+         '      - 俄罗斯(yudou66.com 玉豆免费节点) 4\n'
+         '      - 韩国(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 42\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 43\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 44\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 45\n'
+         '      - 日本(yudou66.com 玉豆免费节点) 3\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 46\n'
          '  - name: ⛔️ 广告拦截\n'
          '    type: select\n'
          '    proxies:\n'
@@ -509,243 +856,251 @@
          '      - 🔰 节点选择\n'
          '      - ♻️ 自动选择\n'
          '      - 🎯 全球直连\n'
-         '      - HK香港(mibei77.com 米贝节点分享)\n'
-         '      - FR法国(mibei77.com 米贝节点分享)\n'
-         '      - US美国(mibei77.com 米贝节点分享)\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享)\n'
-         '      - US美国(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 3\n'
-         '      - US美国(mibei77.com 米贝节点分享) 4\n'
-         '      - 乌克兰(mibei77.com 米贝节点分享)\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 5\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 3\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 4\n'
-         '      - US美国(mibei77.com 米贝节点分享) 6\n'
-         '      - US美国(mibei77.com 米贝节点分享) 7\n'
-         '      - US美国(mibei77.com 米贝节点分享) 8\n'
-         '      - US美国(mibei77.com 米贝节点分享) 9\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 10\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 3\n'
-         '      - DE德国(mibei77.com 米贝节点分享)\n'
-         '      - US美国(mibei77.com 米贝节点分享) 11\n'
-         '      - PL波兰(mibei77.com 米贝节点分享)\n'
-         '      - PL波兰(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 12\n'
-         '      - US美国(mibei77.com 米贝节点分享) 13\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 4\n'
-         '      - US美国(mibei77.com 米贝节点分享) 14\n'
-         '      - US美国(mibei77.com 米贝节点分享) 15\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 5\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 6\n'
-         '      - US美国(mibei77.com 米贝节点分享) 16\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 7\n'
-         '      - LU卢森堡(mibei77.com 米贝节点分享)\n'
-         '      - US美国(mibei77.com 米贝节点分享) 17\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 8\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 5\n'
-         '      - PL波兰(mibei77.com 米贝节点分享) 3\n'
-         '      - FR法国(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 18\n'
-         '      - US美国(mibei77.com 米贝节点分享) 19\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 6\n'
-         '      - FR法国(mibei77.com 米贝节点分享) 3\n'
-         '      - US美国(mibei77.com 米贝节点分享) 20\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 7\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 9\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 10\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 11\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 12\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 13\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 8\n'
-         '      - US美国(mibei77.com 米贝节点分享) 21\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 14\n'
+         '      - 美国(yudou66.com 玉豆免费节点)\n'
+         '      - 日本(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 2\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 3\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 4\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 5\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 6\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 7\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 8\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 9\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 10\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 11\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 12\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 13\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 14\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 15\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 16\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 17\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 18\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 19\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 20\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 21\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 22\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 23\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 24\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 25\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 26\n'
+         '      - 俄罗斯(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 27\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 28\n'
+         '      - 英国(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 29\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 30\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 31\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 32\n'
+         '      - 俄罗斯(yudou66.com 玉豆免费节点) 2\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 33\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 34\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 35\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 36\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 37\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 38\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 39\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 40\n'
+         '      - 俄罗斯(yudou66.com 玉豆免费节点) 3\n'
+         '      - 日本(yudou66.com 玉豆免费节点) 2\n'
+         '      - 德国(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 41\n'
+         '      - 俄罗斯(yudou66.com 玉豆免费节点) 4\n'
+         '      - 韩国(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 42\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 43\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 44\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 45\n'
+         '      - 日本(yudou66.com 玉豆免费节点) 3\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 46\n'
          '  - name: 🌏 国内媒体\n'
          '    type: select\n'
          '    proxies:\n'
          '      - 🎯 全球直连\n'
-         '      - HK香港(mibei77.com 米贝节点分享)\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 2\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 3\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 4\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 5\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 6\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 7\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 8\n'
          '      - 🔰 节点选择\n'
          '  - name: Ⓜ️ 微软服务\n'
          '    type: select\n'
          '    proxies:\n'
          '      - 🎯 全球直连\n'
          '      - 🔰 节点选择\n'
-         '      - HK香港(mibei77.com 米贝节点分享)\n'
-         '      - FR法国(mibei77.com 米贝节点分享)\n'
-         '      - US美国(mibei77.com 米贝节点分享)\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享)\n'
-         '      - US美国(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 3\n'
-         '      - US美国(mibei77.com 米贝节点分享) 4\n'
-         '      - 乌克兰(mibei77.com 米贝节点分享)\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 5\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 3\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 4\n'
-         '      - US美国(mibei77.com 米贝节点分享) 6\n'
-         '      - US美国(mibei77.com 米贝节点分享) 7\n'
-         '      - US美国(mibei77.com 米贝节点分享) 8\n'
-         '      - US美国(mibei77.com 米贝节点分享) 9\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 10\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 3\n'
-         '      - DE德国(mibei77.com 米贝节点分享)\n'
-         '      - US美国(mibei77.com 米贝节点分享) 11\n'
-         '      - PL波兰(mibei77.com 米贝节点分享)\n'
-         '      - PL波兰(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 12\n'
-         '      - US美国(mibei77.com 米贝节点分享) 13\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 4\n'
-         '      - US美国(mibei77.com 米贝节点分享) 14\n'
-         '      - US美国(mibei77.com 米贝节点分享) 15\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 5\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 6\n'
-         '      - US美国(mibei77.com 米贝节点分享) 16\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 7\n'
-         '      - LU卢森堡(mibei77.com 米贝节点分享)\n'
-         '      - US美国(mibei77.com 米贝节点分享) 17\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 8\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 5\n'
-         '      - PL波兰(mibei77.com 米贝节点分享) 3\n'
-         '      - FR法国(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 18\n'
-         '      - US美国(mibei77.com 米贝节点分享) 19\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 6\n'
-         '      - FR法国(mibei77.com 米贝节点分享) 3\n'
-         '      - US美国(mibei77.com 米贝节点分享) 20\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 7\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 9\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 10\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 11\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 12\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 13\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 8\n'
-         '      - US美国(mibei77.com 米贝节点分享) 21\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 14\n'
+         '      - 美国(yudou66.com 玉豆免费节点)\n'
+         '      - 日本(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 2\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 3\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 4\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 5\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 6\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 7\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 8\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 9\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 10\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 11\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 12\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 13\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 14\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 15\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 16\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 17\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 18\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 19\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 20\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 21\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 22\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 23\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 24\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 25\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 26\n'
+         '      - 俄罗斯(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 27\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 28\n'
+         '      - 英国(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 29\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 30\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 31\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 32\n'
+         '      - 俄罗斯(yudou66.com 玉豆免费节点) 2\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 33\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 34\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 35\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 36\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 37\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 38\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 39\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 40\n'
+         '      - 俄罗斯(yudou66.com 玉豆免费节点) 3\n'
+         '      - 日本(yudou66.com 玉豆免费节点) 2\n'
+         '      - 德国(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 41\n'
+         '      - 俄罗斯(yudou66.com 玉豆免费节点) 4\n'
+         '      - 韩国(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 42\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 43\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 44\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 45\n'
+         '      - 日本(yudou66.com 玉豆免费节点) 3\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 46\n'
          '  - name: 📲 电报信息\n'
          '    type: select\n'
          '    proxies:\n'
          '      - 🔰 节点选择\n'
          '      - 🎯 全球直连\n'
-         '      - HK香港(mibei77.com 米贝节点分享)\n'
-         '      - FR法国(mibei77.com 米贝节点分享)\n'
-         '      - US美国(mibei77.com 米贝节点分享)\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享)\n'
-         '      - US美国(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 3\n'
-         '      - US美国(mibei77.com 米贝节点分享) 4\n'
-         '      - 乌克兰(mibei77.com 米贝节点分享)\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 5\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 3\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 4\n'
-         '      - US美国(mibei77.com 米贝节点分享) 6\n'
-         '      - US美国(mibei77.com 米贝节点分享) 7\n'
-         '      - US美国(mibei77.com 米贝节点分享) 8\n'
-         '      - US美国(mibei77.com 米贝节点分享) 9\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 10\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 3\n'
-         '      - DE德国(mibei77.com 米贝节点分享)\n'
-         '      - US美国(mibei77.com 米贝节点分享) 11\n'
-         '      - PL波兰(mibei77.com 米贝节点分享)\n'
-         '      - PL波兰(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 12\n'
-         '      - US美国(mibei77.com 米贝节点分享) 13\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 4\n'
-         '      - US美国(mibei77.com 米贝节点分享) 14\n'
-         '      - US美国(mibei77.com 米贝节点分享) 15\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 5\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 6\n'
-         '      - US美国(mibei77.com 米贝节点分享) 16\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 7\n'
-         '      - LU卢森堡(mibei77.com 米贝节点分享)\n'
-         '      - US美国(mibei77.com 米贝节点分享) 17\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 8\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 5\n'
-         '      - PL波兰(mibei77.com 米贝节点分享) 3\n'
-         '      - FR法国(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 18\n'
-         '      - US美国(mibei77.com 米贝节点分享) 19\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 6\n'
-         '      - FR法国(mibei77.com 米贝节点分享) 3\n'
-         '      - US美国(mibei77.com 米贝节点分享) 20\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 7\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 9\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 10\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 11\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 12\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 13\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 8\n'
-         '      - US美国(mibei77.com 米贝节点分享) 21\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 14\n'
+         '      - 美国(yudou66.com 玉豆免费节点)\n'
+         '      - 日本(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 2\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 3\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 4\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 5\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 6\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 7\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 8\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 9\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 10\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 11\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 12\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 13\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 14\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 15\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 16\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 17\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 18\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 19\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 20\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 21\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 22\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 23\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 24\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 25\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 26\n'
+         '      - 俄罗斯(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 27\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 28\n'
+         '      - 英国(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 29\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 30\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 31\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 32\n'
+         '      - 俄罗斯(yudou66.com 玉豆免费节点) 2\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 33\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 34\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 35\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 36\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 37\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 38\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 39\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 40\n'
+         '      - 俄罗斯(yudou66.com 玉豆免费节点) 3\n'
+         '      - 日本(yudou66.com 玉豆免费节点) 2\n'
+         '      - 德国(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 41\n'
+         '      - 俄罗斯(yudou66.com 玉豆免费节点) 4\n'
+         '      - 韩国(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 42\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 43\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 44\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 45\n'
+         '      - 日本(yudou66.com 玉豆免费节点) 3\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 46\n'
          '  - name: 🍎 苹果服务\n'
          '    type: select\n'
          '    proxies:\n'
          '      - 🔰 节点选择\n'
          '      - 🎯 全球直连\n'
          '      - ♻️ 自动选择\n'
-         '      - HK香港(mibei77.com 米贝节点分享)\n'
-         '      - FR法国(mibei77.com 米贝节点分享)\n'
-         '      - US美国(mibei77.com 米贝节点分享)\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享)\n'
-         '      - US美国(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 3\n'
-         '      - US美国(mibei77.com 米贝节点分享) 4\n'
-         '      - 乌克兰(mibei77.com 米贝节点分享)\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 5\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 3\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 4\n'
-         '      - US美国(mibei77.com 米贝节点分享) 6\n'
-         '      - US美国(mibei77.com 米贝节点分享) 7\n'
-         '      - US美国(mibei77.com 米贝节点分享) 8\n'
-         '      - US美国(mibei77.com 米贝节点分享) 9\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 10\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 3\n'
-         '      - DE德国(mibei77.com 米贝节点分享)\n'
-         '      - US美国(mibei77.com 米贝节点分享) 11\n'
-         '      - PL波兰(mibei77.com 米贝节点分享)\n'
-         '      - PL波兰(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 12\n'
-         '      - US美国(mibei77.com 米贝节点分享) 13\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 4\n'
-         '      - US美国(mibei77.com 米贝节点分享) 14\n'
-         '      - US美国(mibei77.com 米贝节点分享) 15\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 5\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 6\n'
-         '      - US美国(mibei77.com 米贝节点分享) 16\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 7\n'
-         '      - LU卢森堡(mibei77.com 米贝节点分享)\n'
-         '      - US美国(mibei77.com 米贝节点分享) 17\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 8\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 5\n'
-         '      - PL波兰(mibei77.com 米贝节点分享) 3\n'
-         '      - FR法国(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 18\n'
-         '      - US美国(mibei77.com 米贝节点分享) 19\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 6\n'
-         '      - FR法国(mibei77.com 米贝节点分享) 3\n'
-         '      - US美国(mibei77.com 米贝节点分享) 20\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 7\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 9\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 10\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 11\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 12\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 13\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 8\n'
-         '      - US美国(mibei77.com 米贝节点分享) 21\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 14\n'
+         '      - 美国(yudou66.com 玉豆免费节点)\n'
+         '      - 日本(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 2\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 3\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 4\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 5\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 6\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 7\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 8\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 9\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 10\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 11\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 12\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 13\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 14\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 15\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 16\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 17\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 18\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 19\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 20\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 21\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 22\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 23\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 24\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 25\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 26\n'
+         '      - 俄罗斯(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 27\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 28\n'
+         '      - 英国(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 29\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 30\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 31\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 32\n'
+         '      - 俄罗斯(yudou66.com 玉豆免费节点) 2\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 33\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 34\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 35\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 36\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 37\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 38\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 39\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 40\n'
+         '      - 俄罗斯(yudou66.com 玉豆免费节点) 3\n'
+         '      - 日本(yudou66.com 玉豆免费节点) 2\n'
+         '      - 德国(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 41\n'
+         '      - 俄罗斯(yudou66.com 玉豆免费节点) 4\n'
+         '      - 韩国(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 42\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 43\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 44\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 45\n'
+         '      - 日本(yudou66.com 玉豆免费节点) 3\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 46\n'
          '  - name: 🎯 全球直连\n'
          '    type: select\n'
          '    proxies:\n'
@@ -761,58 +1116,62 @@
          '      - 🔰 节点选择\n'
          '      - 🎯 全球直连\n'
          '      - ♻️ 自动选择\n'
-         '      - HK香港(mibei77.com 米贝节点分享)\n'
-         '      - FR法国(mibei77.com 米贝节点分享)\n'
-         '      - US美国(mibei77.com 米贝节点分享)\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享)\n'
-         '      - US美国(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 3\n'
-         '      - US美国(mibei77.com 米贝节点分享) 4\n'
-         '      - 乌克兰(mibei77.com 米贝节点分享)\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 5\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 3\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 4\n'
-         '      - US美国(mibei77.com 米贝节点分享) 6\n'
-         '      - US美国(mibei77.com 米贝节点分享) 7\n'
-         '      - US美国(mibei77.com 米贝节点分享) 8\n'
-         '      - US美国(mibei77.com 米贝节点分享) 9\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 10\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 3\n'
-         '      - DE德国(mibei77.com 米贝节点分享)\n'
-         '      - US美国(mibei77.com 米贝节点分享) 11\n'
-         '      - PL波兰(mibei77.com 米贝节点分享)\n'
-         '      - PL波兰(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 12\n'
-         '      - US美国(mibei77.com 米贝节点分享) 13\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 4\n'
-         '      - US美国(mibei77.com 米贝节点分享) 14\n'
-         '      - US美国(mibei77.com 米贝节点分享) 15\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 5\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 6\n'
-         '      - US美国(mibei77.com 米贝节点分享) 16\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 7\n'
-         '      - LU卢森堡(mibei77.com 米贝节点分享)\n'
-         '      - US美国(mibei77.com 米贝节点分享) 17\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 8\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 5\n'
-         '      - PL波兰(mibei77.com 米贝节点分享) 3\n'
-         '      - FR法国(mibei77.com 米贝节点分享) 2\n'
-         '      - US美国(mibei77.com 米贝节点分享) 18\n'
-         '      - US美国(mibei77.com 米贝节点分享) 19\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 6\n'
-         '      - FR法国(mibei77.com 米贝节点分享) 3\n'
-         '      - US美国(mibei77.com 米贝节点分享) 20\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 7\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 9\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 10\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 11\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 12\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 13\n'
-         '      - HK香港(mibei77.com 米贝节点分享) 8\n'
-         '      - US美国(mibei77.com 米贝节点分享) 21\n'
-         '      - 俄罗斯(mibei77.com 米贝节点分享) 14\n'
+         '      - 美国(yudou66.com 玉豆免费节点)\n'
+         '      - 日本(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 2\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 3\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 4\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 5\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 6\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 7\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 8\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 9\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 10\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 11\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 12\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 13\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 14\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 15\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 16\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 17\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 18\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 19\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 20\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 21\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 22\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 23\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 24\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 25\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 26\n'
+         '      - 俄罗斯(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 27\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 28\n'
+         '      - 英国(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 29\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 30\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 31\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 32\n'
+         '      - 俄罗斯(yudou66.com 玉豆免费节点) 2\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 33\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 34\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 35\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 36\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 37\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 38\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 39\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 40\n'
+         '      - 俄罗斯(yudou66.com 玉豆免费节点) 3\n'
+         '      - 日本(yudou66.com 玉豆免费节点) 2\n'
+         '      - 德国(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 41\n'
+         '      - 俄罗斯(yudou66.com 玉豆免费节点) 4\n'
+         '      - 韩国(yudou66.com 玉豆免费节点)\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 42\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 43\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 44\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 45\n'
+         '      - 日本(yudou66.com 玉豆免费节点) 3\n'
+         '      - 美国(yudou66.com 玉豆免费节点) 46\n'
          'rules:\n'
          ' - DOMAIN-SUFFIX,local,🎯 全球直连\n'
          ' - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve\n'
@@ -11019,9 +11378,9 @@
          ' - DOMAIN-KEYWORD,XLLiveUD,🎯 全球直连\n'
          ' - GEOIP,CN,🎯 全球直连\n'
          ' - MATCH,🐟 漏网之鱼\n',
- 'date': '2025-01-05',
+ 'date': '2025-01-03',
  'ext': '.yaml',
- 'name': 'nodev2ray'}
+ 'name': 'yudou66'}
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/twisted/internet/defer.py", line 1088, in _runCallbacks
     current.result = callback(  # type: ignore[misc]
@@ -11058,392 +11417,41 @@ Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/yaml/constructor.py", line 427, in construct_undefined
     raise ConstructorError(None, None,
 yaml.constructor.ConstructorError: could not determine a constructor for the tag 'str'
-  in "<unicode string>", line 12, column 106:
+  in "<unicode string>", line 24, column 108:
      ... t: 443, type: trojan, password: !<str> 3723507166611775488, sni: ... 
                                          ^
-2025-01-04 20:16:40 [scrapy.core.engine] INFO: Closing spider (finished)
-2025-01-04 20:16:40 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
-{'downloader/request_bytes': 9180,
- 'downloader/request_count': 25,
- 'downloader/request_method_count/GET': 25,
- 'downloader/response_bytes': 1400095,
- 'downloader/response_count': 25,
- 'downloader/response_status_count/200': 22,
- 'downloader/response_status_count/301': 2,
+2025-01-05 02:53:55 [scrapy.core.engine] INFO: Closing spider (finished)
+2025-01-05 02:53:55 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 7539,
+ 'downloader/request_count': 21,
+ 'downloader/request_method_count/GET': 21,
+ 'downloader/response_bytes': 900507,
+ 'downloader/response_count': 21,
+ 'downloader/response_status_count/200': 12,
+ 'downloader/response_status_count/302': 8,
  'downloader/response_status_count/404': 1,
- 'elapsed_time_seconds': 3.861202,
+ 'elapsed_time_seconds': 8.746443,
  'finish_reason': 'finished',
- 'finish_time': datetime.datetime(2025, 1, 4, 20, 16, 40, 98751, tzinfo=datetime.timezone.utc),
- 'httpcompression/response_bytes': 439909,
- 'httpcompression/response_count': 16,
- 'item_scraped_count': 8,
+ 'finish_time': datetime.datetime(2025, 1, 5, 2, 53, 55, 244486, tzinfo=datetime.timezone.utc),
+ 'httpcompression/response_bytes': 1802988,
+ 'httpcompression/response_count': 11,
+ 'item_scraped_count': 1,
  'items_per_minute': None,
- 'log_count/ERROR': 1,
- 'log_count/INFO': 104,
- 'log_count/WARNING': 4,
- 'memusage/max': 479416320,
- 'memusage/startup': 479416320,
+ 'log_count/ERROR': 6,
+ 'log_count/INFO': 44,
+ 'memusage/max': 479608832,
+ 'memusage/startup': 479608832,
  'request_depth_max': 2,
- 'response_received_count': 23,
+ 'response_received_count': 13,
  'responses_per_minute': None,
- 'robotstxt/request_count': 6,
- 'robotstxt/response_count': 6,
- 'robotstxt/response_status_count/200': 5,
- 'robotstxt/response_status_count/404': 1,
- 'scheduler/dequeued': 17,
- 'scheduler/dequeued/memory': 17,
- 'scheduler/enqueued': 17,
- 'scheduler/enqueued/memory': 17,
- 'start_time': datetime.datetime(2025, 1, 4, 20, 16, 36, 237549, tzinfo=datetime.timezone.utc)}
-2025-01-04 20:16:40 [scrapy.core.engine] INFO: Spider closed (finished)
-2025-01-04 20:16:44 [scrapy.addons] INFO: Enabled addons:
-[]
-2025-01-04 20:16:44 [scrapy.extensions.telnet] INFO: Telnet Password: dec0f58dd6838946
-2025-01-04 20:16:44 [scrapy.middleware] INFO: Enabled extensions:
-['scrapy.extensions.corestats.CoreStats',
- 'scrapy.extensions.telnet.TelnetConsole',
- 'scrapy.extensions.memusage.MemoryUsage',
- 'scrapy.extensions.logstats.LogStats']
-2025-01-04 20:16:44 [scrapy.crawler] INFO: Overridden settings:
-{'BOT_NAME': 'NodeScrapy',
- 'FEED_EXPORT_ENCODING': 'utf-8',
- 'LOG_FILE': 'scrapy.log',
- 'LOG_LEVEL': 'INFO',
- 'NEWSPIDER_MODULE': 'NodeScrapy.spiders',
- 'REQUEST_FINGERPRINTER_IMPLEMENTATION': '2.7',
- 'ROBOTSTXT_OBEY': True,
- 'SPIDER_MODULES': ['NodeScrapy.spiders'],
- 'TWISTED_REACTOR': 'twisted.internet.asyncioreactor.AsyncioSelectorReactor'}
-2025-01-04 20:16:44 [scrapy.middleware] INFO: Enabled downloader middlewares:
-['scrapy.downloadermiddlewares.offsite.OffsiteMiddleware',
- 'scrapy.downloadermiddlewares.robotstxt.RobotsTxtMiddleware',
- 'scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
- 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
- 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
- 'NodeScrapy.middlewares.RandomUserAgentMiddleware',
- 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
- 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
- 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
- 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
- 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
- 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
- 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
- 'scrapy.downloadermiddlewares.stats.DownloaderStats']
-2025-01-04 20:16:44 [scrapy.middleware] INFO: Enabled spider middlewares:
-['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
- 'scrapy.spidermiddlewares.referer.RefererMiddleware',
- 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
- 'scrapy.spidermiddlewares.depth.DepthMiddleware']
-2025-01-04 20:16:44 [scrapy.middleware] INFO: Enabled item pipelines:
-['NodeScrapy.pipelines.Pipeline']
-2025-01-04 20:16:44 [scrapy.core.engine] INFO: Spider opened
-2025-01-04 20:16:44 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
-2025-01-04 20:16:44 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
-2025-01-04 20:16:44 [decrypt] INFO: yudou66 start
-2025-01-04 20:16:44 [decrypt] INFO: blues start
-2025-01-04 20:16:44 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/01/2025144kchatgpt4k8kclashv2ray.html on 2025-01-04
-2025-01-04 20:16:44 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/01/2025134kchatgpt4k8kclashv2ray.html on 2025-01-03
-2025-01-04 20:16:44 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/01/2025124kchatgpt4k8kclashv2ray.html on 2025-01-02
-2025-01-04 20:16:44 [decrypt] INFO: blues found https://blues2022.blogspot.com/2024/12/2025114kchatgpt4k8kclashv2ray.html on 2025-01-01
-2025-01-04 20:16:44 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/01/2025144kchatgpt4k8kclashv2ray.html on 2025-01-04
-2025-01-04 20:16:44 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/01/2025124kchatgpt4k8kclashv2ray.html on 2025-01-02
-2025-01-04 20:16:44 [decrypt] INFO: blues found https://blues2022.blogspot.com/2024/12/2025114kchatgpt4k8kclashv2ray.html on 2025-01-01
-2025-01-04 20:16:44 [decrypt] INFO: blues needs update, accessing https://blues2022.blogspot.com/2025/01/2025144kchatgpt4k8kclashv2ray.html
-2025-01-04 20:16:44 [decrypt] INFO: blues needs update, accessing https://blues2022.blogspot.com/2025/01/2025134kchatgpt4k8kclashv2ray.html
-2025-01-04 20:16:44 [decrypt] INFO: blues needs update, accessing https://blues2022.blogspot.com/2025/01/2025124kchatgpt4k8kclashv2ray.html
-2025-01-04 20:16:44 [decrypt] INFO: yudou66 found https://www.yudou66.com/2025/01/202501042881080p4kv2rayclashsing.html on 2025-01-04
-2025-01-04 20:16:44 [decrypt] INFO: yudou66 found https://www.yudou66.com/2025/01/202501032841080p4kv2rayclashsing.html on 2025-01-03
-2025-01-04 20:16:44 [decrypt] INFO: yudou66 found https://www.yudou66.com/2025/01/202501022971080p4kv2rayclashsing.html on 2025-01-02
-2025-01-04 20:16:44 [decrypt] INFO: yudou66 found https://www.yudou66.com/2024/12/202501012921080p4kv2rayclashsing.html on 2025-01-01
-2025-01-04 20:16:44 [decrypt] INFO: yudou66 found https://www.yudou66.com/2024/12/202501012921080p4kv2rayclashsing.html on 2025-01-01
-2025-01-04 20:16:44 [decrypt] INFO: yudou66 found https://www.yudou66.com/2025/01/202501042881080p4kv2rayclashsing.html on 2025-01-04
-2025-01-04 20:16:44 [decrypt] INFO: yudou66 needs update, accessing https://www.yudou66.com/2025/01/202501042881080p4kv2rayclashsing.html
-2025-01-04 20:16:44 [decrypt] INFO: yudou66 needs update, accessing https://www.yudou66.com/2025/01/202501032841080p4kv2rayclashsing.html
-2025-01-04 20:16:44 [decrypt] INFO: yudou66 is up to date, exiting
-2025-01-04 20:16:45 [decrypt] INFO: yudou66 found yt_url: https://youtu.be/P4mybOrNPzo
-2025-01-04 20:16:45 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.yudou66.com/2025/01/202501032841080p4kv2rayclashsing.html?m=1> (referer: https://www.yudou66.com/?m=1)
-Traceback (most recent call last):
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/defer.py", line 327, in iter_errback
-    yield next(it)
-          ^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/python.py", line 368, in __next__
-    return next(self.data)
-           ^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/python.py", line 368, in __next__
-    return next(self.data)
-           ^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
-    yield from iterable
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/spidermiddlewares/referer.py", line 379, in <genexpr>
-    return (self._set_referer(r, response) for r in result)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
-    yield from iterable
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/spidermiddlewares/urllength.py", line 57, in <genexpr>
-    return (r for r in result if self._filter(r, spider))
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
-    yield from iterable
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/spidermiddlewares/depth.py", line 54, in <genexpr>
-    return (r for r in result if self._filter(r, response, spider))
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
-    yield from iterable
-  File "/home/runner/work/FreeNodes/FreeNodes/NodeScrapy/spiders/DecryptSpider.py", line 76, in parse_blog
-    pwdfinder = PwdFinder(name, self.logger, yt_url)
-                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/work/FreeNodes/FreeNodes/utils/PwdFinder.py", line 65, in __init__
-    match = re.search(r"(?:\d{4}[-年])?(\d{1,2})[-月](\d{1,2})", yt.title)
-                                                                 ^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/__main__.py", line 691, in title
-    self._author = self.vid_info.get("videoDetails", {}).get(
-                   ^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/__main__.py", line 426, in vid_info
-    innertube_response = innertube.player(self.video_id)
-                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 871, in player
-    return self._call_api(endpoint, query, self.base_data)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 765, in _call_api
-    self.fetch_bearer_token()
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 687, in fetch_bearer_token
-    self.oauth_verifier(verification_url, user_code)
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 521, in _default_oauth_verifier
-    input('Press enter when you have completed this step.')
-EOFError: EOF when reading a line
-2025-01-04 20:16:45 [decrypt] INFO: yudou66 found yt_url: https://youtu.be/mLm52Pz41mw
-2025-01-04 20:16:46 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.yudou66.com/2025/01/202501042881080p4kv2rayclashsing.html> (referer: https://www.yudou66.com/?m=1)
-Traceback (most recent call last):
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/defer.py", line 327, in iter_errback
-    yield next(it)
-          ^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/python.py", line 368, in __next__
-    return next(self.data)
-           ^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/python.py", line 368, in __next__
-    return next(self.data)
-           ^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
-    yield from iterable
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/spidermiddlewares/referer.py", line 379, in <genexpr>
-    return (self._set_referer(r, response) for r in result)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
-    yield from iterable
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/spidermiddlewares/urllength.py", line 57, in <genexpr>
-    return (r for r in result if self._filter(r, spider))
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
-    yield from iterable
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/spidermiddlewares/depth.py", line 54, in <genexpr>
-    return (r for r in result if self._filter(r, response, spider))
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
-    yield from iterable
-  File "/home/runner/work/FreeNodes/FreeNodes/NodeScrapy/spiders/DecryptSpider.py", line 76, in parse_blog
-    pwdfinder = PwdFinder(name, self.logger, yt_url)
-                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/work/FreeNodes/FreeNodes/utils/PwdFinder.py", line 65, in __init__
-    match = re.search(r"(?:\d{4}[-年])?(\d{1,2})[-月](\d{1,2})", yt.title)
-                                                                 ^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/__main__.py", line 691, in title
-    self._author = self.vid_info.get("videoDetails", {}).get(
-                   ^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/__main__.py", line 426, in vid_info
-    innertube_response = innertube.player(self.video_id)
-                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 871, in player
-    return self._call_api(endpoint, query, self.base_data)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 765, in _call_api
-    self.fetch_bearer_token()
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 687, in fetch_bearer_token
-    self.oauth_verifier(verification_url, user_code)
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 521, in _default_oauth_verifier
-    input('Press enter when you have completed this step.')
-EOFError: EOF when reading a line
-2025-01-04 20:16:46 [decrypt] INFO: blues found yt_url: https://youtu.be/6Vo3w7my_pU
-2025-01-04 20:16:47 [scrapy.core.scraper] ERROR: Spider error processing <GET https://blues2022.blogspot.com/2025/01/2025124kchatgpt4k8kclashv2ray.html?m=1> (referer: https://blues2022.blogspot.com/?m=1)
-Traceback (most recent call last):
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/defer.py", line 327, in iter_errback
-    yield next(it)
-          ^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/python.py", line 368, in __next__
-    return next(self.data)
-           ^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/python.py", line 368, in __next__
-    return next(self.data)
-           ^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
-    yield from iterable
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/spidermiddlewares/referer.py", line 379, in <genexpr>
-    return (self._set_referer(r, response) for r in result)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
-    yield from iterable
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/spidermiddlewares/urllength.py", line 57, in <genexpr>
-    return (r for r in result if self._filter(r, spider))
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
-    yield from iterable
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/spidermiddlewares/depth.py", line 54, in <genexpr>
-    return (r for r in result if self._filter(r, response, spider))
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
-    yield from iterable
-  File "/home/runner/work/FreeNodes/FreeNodes/NodeScrapy/spiders/DecryptSpider.py", line 76, in parse_blog
-    pwdfinder = PwdFinder(name, self.logger, yt_url)
-                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/work/FreeNodes/FreeNodes/utils/PwdFinder.py", line 65, in __init__
-    match = re.search(r"(?:\d{4}[-年])?(\d{1,2})[-月](\d{1,2})", yt.title)
-                                                                 ^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/__main__.py", line 691, in title
-    self._author = self.vid_info.get("videoDetails", {}).get(
-                   ^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/__main__.py", line 426, in vid_info
-    innertube_response = innertube.player(self.video_id)
-                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 871, in player
-    return self._call_api(endpoint, query, self.base_data)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 765, in _call_api
-    self.fetch_bearer_token()
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 687, in fetch_bearer_token
-    self.oauth_verifier(verification_url, user_code)
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 521, in _default_oauth_verifier
-    input('Press enter when you have completed this step.')
-EOFError: EOF when reading a line
-2025-01-04 20:16:47 [decrypt] INFO: blues found yt_url: https://youtu.be/9KdwN5gFD2s
-2025-01-04 20:16:47 [scrapy.core.scraper] ERROR: Spider error processing <GET https://blues2022.blogspot.com/2025/01/2025144kchatgpt4k8kclashv2ray.html?m=1> (referer: https://blues2022.blogspot.com/?m=1)
-Traceback (most recent call last):
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/defer.py", line 327, in iter_errback
-    yield next(it)
-          ^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/python.py", line 368, in __next__
-    return next(self.data)
-           ^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/python.py", line 368, in __next__
-    return next(self.data)
-           ^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
-    yield from iterable
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/spidermiddlewares/referer.py", line 379, in <genexpr>
-    return (self._set_referer(r, response) for r in result)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
-    yield from iterable
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/spidermiddlewares/urllength.py", line 57, in <genexpr>
-    return (r for r in result if self._filter(r, spider))
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
-    yield from iterable
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/spidermiddlewares/depth.py", line 54, in <genexpr>
-    return (r for r in result if self._filter(r, response, spider))
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
-    yield from iterable
-  File "/home/runner/work/FreeNodes/FreeNodes/NodeScrapy/spiders/DecryptSpider.py", line 76, in parse_blog
-    pwdfinder = PwdFinder(name, self.logger, yt_url)
-                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/work/FreeNodes/FreeNodes/utils/PwdFinder.py", line 65, in __init__
-    match = re.search(r"(?:\d{4}[-年])?(\d{1,2})[-月](\d{1,2})", yt.title)
-                                                                 ^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/__main__.py", line 691, in title
-    self._author = self.vid_info.get("videoDetails", {}).get(
-                   ^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/__main__.py", line 426, in vid_info
-    innertube_response = innertube.player(self.video_id)
-                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 871, in player
-    return self._call_api(endpoint, query, self.base_data)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 765, in _call_api
-    self.fetch_bearer_token()
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 687, in fetch_bearer_token
-    self.oauth_verifier(verification_url, user_code)
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 521, in _default_oauth_verifier
-    input('Press enter when you have completed this step.')
-EOFError: EOF when reading a line
-2025-01-04 20:16:47 [decrypt] INFO: blues found yt_url: https://youtu.be/G-VOg1oeVC0
-2025-01-04 20:16:48 [scrapy.core.scraper] ERROR: Spider error processing <GET https://blues2022.blogspot.com/2025/01/2025134kchatgpt4k8kclashv2ray.html?m=1> (referer: https://blues2022.blogspot.com/?m=1)
-Traceback (most recent call last):
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/defer.py", line 327, in iter_errback
-    yield next(it)
-          ^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/python.py", line 368, in __next__
-    return next(self.data)
-           ^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/python.py", line 368, in __next__
-    return next(self.data)
-           ^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
-    yield from iterable
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/spidermiddlewares/referer.py", line 379, in <genexpr>
-    return (self._set_referer(r, response) for r in result)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
-    yield from iterable
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/spidermiddlewares/urllength.py", line 57, in <genexpr>
-    return (r for r in result if self._filter(r, spider))
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
-    yield from iterable
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/spidermiddlewares/depth.py", line 54, in <genexpr>
-    return (r for r in result if self._filter(r, response, spider))
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
-    yield from iterable
-  File "/home/runner/work/FreeNodes/FreeNodes/NodeScrapy/spiders/DecryptSpider.py", line 76, in parse_blog
-    pwdfinder = PwdFinder(name, self.logger, yt_url)
-                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/work/FreeNodes/FreeNodes/utils/PwdFinder.py", line 65, in __init__
-    match = re.search(r"(?:\d{4}[-年])?(\d{1,2})[-月](\d{1,2})", yt.title)
-                                                                 ^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/__main__.py", line 691, in title
-    self._author = self.vid_info.get("videoDetails", {}).get(
-                   ^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/__main__.py", line 426, in vid_info
-    innertube_response = innertube.player(self.video_id)
-                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 871, in player
-    return self._call_api(endpoint, query, self.base_data)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 765, in _call_api
-    self.fetch_bearer_token()
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 687, in fetch_bearer_token
-    self.oauth_verifier(verification_url, user_code)
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 521, in _default_oauth_verifier
-    input('Press enter when you have completed this step.')
-EOFError: EOF when reading a line
-2025-01-04 20:16:48 [scrapy.core.engine] INFO: Closing spider (finished)
-2025-01-04 20:16:48 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
-{'downloader/request_bytes': 5773,
- 'downloader/request_count': 16,
- 'downloader/request_method_count/GET': 16,
- 'downloader/response_bytes': 294066,
- 'downloader/response_count': 16,
- 'downloader/response_status_count/200': 9,
- 'downloader/response_status_count/302': 7,
- 'elapsed_time_seconds': 4.191818,
- 'finish_reason': 'finished',
- 'finish_time': datetime.datetime(2025, 1, 4, 20, 16, 48, 547327, tzinfo=datetime.timezone.utc),
- 'httpcompression/response_bytes': 1514961,
- 'httpcompression/response_count': 9,
- 'items_per_minute': None,
- 'log_count/ERROR': 5,
- 'log_count/INFO': 36,
- 'memusage/max': 476971008,
- 'memusage/startup': 476971008,
- 'request_depth_max': 1,
- 'response_received_count': 9,
- 'responses_per_minute': None,
- 'robotstxt/request_count': 2,
- 'robotstxt/response_count': 2,
+ 'robotstxt/request_count': 3,
+ 'robotstxt/response_count': 3,
  'robotstxt/response_status_count/200': 2,
- 'scheduler/dequeued': 13,
- 'scheduler/dequeued/memory': 13,
- 'scheduler/enqueued': 13,
- 'scheduler/enqueued/memory': 13,
+ 'robotstxt/response_status_count/404': 1,
+ 'scheduler/dequeued': 16,
+ 'scheduler/dequeued/memory': 16,
+ 'scheduler/enqueued': 16,
+ 'scheduler/enqueued/memory': 16,
  'spider_exceptions/EOFError': 5,
- 'start_time': datetime.datetime(2025, 1, 4, 20, 16, 44, 355509, tzinfo=datetime.timezone.utc)}
-2025-01-04 20:16:48 [scrapy.core.engine] INFO: Spider closed (finished)
+ 'start_time': datetime.datetime(2025, 1, 5, 2, 53, 46, 498043, tzinfo=datetime.timezone.utc)}
+2025-01-05 02:53:55 [scrapy.core.engine] INFO: Spider closed (finished)
